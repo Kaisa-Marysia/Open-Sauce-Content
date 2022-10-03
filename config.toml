@@ -1,0 +1,84 @@
+base_url = "https://www.opensauce.tk/"
+
+build_search_index = true
+default_language = "en"
+compile_sass = true
+title = "OpenSauce"
+description = "Free And Open Sauce - Kochblog by Kaisa-Marysia"
+generate_feed = true
+feed_filename = "atom.xml"
+output_dir = "public"
+
+taxonomies = [
+  {name = "categories", paginate_by = 6},
+  {name = "tags", paginate_by = 5},
+]
+
+[markdown]
+highlight_code = true
+
+[extra]
+banner = "img/banner.webp"
+date_format = '%d/%m/%Y'
+
+theme = 'simplex'
+bg = "dark"
+inverted = false
+
+search = 'Search'
+tag = 'Posts by Topic'
+tags = 'Posts by Topics'
+
+icons = [
+  {title = 'Mail', icon = 'mail', url = 'mailto:kaisa-marysia@qra-it.de'},
+  {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com/KaisaMarysia'},
+  {title = 'Mastodon', icon = 'mastodon', url = 'https://chaos.social/@kascha'},
+]
+
+data_themes = [
+  'simplex',
+]
+data_schemes = [
+  'dark',
+]
+
+# Drop Down Navigation
+[[extra.menu]]
+name = "Allgemein"
+links = []
+
+[[extra.menu]]
+name = "Koch-Rezepte"
+links = [
+  {title = 'Vegan ', url = '/categories/kochen-vegan'},
+  {title = 'Vegetarisch ', url = '/categories/kochen-vegetarisch'},
+  {title = 'Carne', url = '/categories/kochen-carne'},
+]
+
+[[extra.menu]]
+name = "Back-Rezepte"
+links = [
+  {title = 'Vegan ', url = '/categories/backen-vegan'},
+  {title = 'Vegetarisch ', url = '/categories/backen-vegetarisch'},
+]
+
+[[extra.menu]]
+name = "Auf-die-Schnelle"
+links = [
+  {title = 'Vegan ', url = '/categories/auf-die-schnelle-vegan'},
+  {title = 'Vegetarisch ', url = '/categories/auf-die-schnelle-vegetarisch'},
+  {title = 'Carne ', url = '/categories/auf-die-schnelle-carne'},
+]
+
+[[extra.menu]]
+name = "Open-Sauce"
+links = [
+  {title = 'About', url = '/about'},
+  {title = 'Impressum', url = '/Impressum'},
+  {title = 'Tags', url = '/tags'},
+]
+
+## Empty Navigation
+#[[extra.menu]]
+#name = "Foobar"
+#links = []
