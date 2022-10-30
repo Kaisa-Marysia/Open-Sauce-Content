@@ -21,10 +21,10 @@ taxonomies:
     - Kokoscreme
     - Puderzucker
   categories:
-    - Allgemein
-    - Back-Rezepte
-    - backen-vegan
-    - backen-vegetarisch
+      - Allgemein
+      - Back-Rezepte
+      - Backen-Vegan
+      - Backen-Vegetarisch
 ---
 Eigentlich wollte ich bereits im September diesen Kuchen als Rezept ausprobieren, aber leider kam etwas anders als gewollt und ich konnte erst jetzt das Rezept improvisieren und nieder schreiben. Ganz zufrieden bin ich damit nicht, da die Creme zu Beginn nicht cremig genug war und danach nicht fest wurde. Geschmacklich ist es aber Super. 
 
