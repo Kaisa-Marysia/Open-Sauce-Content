@@ -31,7 +31,6 @@ tags = 'Posts by Topics'
 
 icons = [
   {title = 'Mail', icon = 'mail', url = 'mailto:kaisa-marysia@qra-it.de'},
-  {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com/KaisaMarysia'},
   {title = 'Mastodon', icon = 'mastodon', url = 'https://chaos.social/@kascha'},
 ]
 
