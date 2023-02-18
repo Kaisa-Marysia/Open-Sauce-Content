@@ -83,3 +83,5 @@ Zum Schluss kommen die Gewürze hinzu. Kocht dann das ganze auf und lasst es auf
 [![Topf mit Suppe auf Herdplatte von oben Fotografiert](images/99047186d3f1c9b8-thumb.webp)](images/99047186d3f1c9b8.webp)
 
 Optional kann zur Suppe vegane Sahne oder Crème fraîche hinzugegeben werden. Dies mildert etwas die Schärfe und rundet den Geschmack ab.
+
+[![Ein tiefer Teller von oben fotografiert mit einer Suppe und einem Kleks Sahne](images/c971692bf7489e5e-thumb.webp)](images/c971692bf7489e5e.webp)
