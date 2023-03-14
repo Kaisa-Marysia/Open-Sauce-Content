@@ -13,7 +13,7 @@ draft: true
 # Zutaten
 * 100g Sojabohnen
 
-Bohnen in 24h quirllen lassen
+Bohnen in 24h quellen lassen
 Wässern/säubern
 pürrieren
 sieben
