@@ -19,6 +19,7 @@ taxonomies:
 
 Sojamilch mit Senf, Salz und Essig mit einem (Stab)Mixer vermischen und dabei langsam das Öl hiizuegeben. Solange mixen bis die Mayonaise schön cremig und fest wird.
 
+Als Remolade kommen Kräuter, klein gehackte Zwiebel und eingelegte Gruken hinzu.
 ||||
 :----:|:----:|:----:
 example|table|3|rows
