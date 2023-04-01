@@ -16,10 +16,9 @@ taxonomies:
     - Maisstärke
   categories:
     - Allgemein
-    - Vegan
-    - Backen-vegan
-    - Backen-vegetarisch
-    - Vegetarisch
+    - Back-Rezepte
+    - Backen-Vegan
+    - Backen-Vegetarisch
 ---
 
 Einige können sich noch an das [Cheesecake Rezept](/articles/american-cheesecake-style-2018-12-04/) erinnern. 
