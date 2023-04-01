@@ -14,6 +14,7 @@ taxonomies:
     - Kochen-Vegan
     - Kochen
     - Vegetarisch
+    - Koch-Rezepte
     - Kochen-Vegetarisch
 
 ---
