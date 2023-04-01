@@ -8,6 +8,8 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
+    
+draft: true
 ---
 
 # Zutaten
