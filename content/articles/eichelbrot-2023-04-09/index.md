@@ -1,6 +1,6 @@
 ---
 title: Eichelbrot
-date: 2023-04-02
+date: 2023-04-09
 extra:
   image: web/IMG_0774.webp
 taxonomies:

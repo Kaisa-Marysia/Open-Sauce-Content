@@ -1,6 +1,6 @@
 ---
 title: Sauerteigbrot
-date: 2023-04-02
+date: 2023-04-09
 extra:
   image: web/3f16a18f-f720-4e77-aa42-c58c22423ab6.webp
 taxonomies:

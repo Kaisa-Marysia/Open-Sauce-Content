@@ -1,6 +1,6 @@
 ---
 title: Roggen-Dinkel-Joghurtbrot
-date: 2023-04-02
+date: 2023-04-09
 extra:
   image: web/458692f75ed3911c.webp
 taxonomies:

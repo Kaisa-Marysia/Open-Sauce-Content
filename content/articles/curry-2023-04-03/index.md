@@ -1,6 +1,6 @@
 ---
 title: Curry
-date: 2023-04-03
+date: 2023-04-09
 extra:
   image: web/index.webp
 taxonomies:

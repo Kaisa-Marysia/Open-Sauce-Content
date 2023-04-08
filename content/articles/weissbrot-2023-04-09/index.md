@@ -1,6 +1,6 @@
 ---
 title: Weißbrot
-date: 2023-04-02
+date: 2023-04-09
 extra:
   image: web/580075e98b19cca5.webp
 taxonomies:
