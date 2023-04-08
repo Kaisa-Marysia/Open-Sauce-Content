@@ -30,6 +30,10 @@ Die entstandene Masse wird mit einem Liter Wasser, in einem Topf zum Kochen gebr
 
 **Achtung**: Die Sojamilch könnte überkochen, weshalb diese immer umgerührt werden muss.
 
+|||
+:---:|:---:
+[![Sojamilch in einem Kochtopf. Ein Holzlöffel liegt auf dem Kochtopf drauf](web/IMG_0788-thumb.webp)](web/IMG_0788.webp)|[![Pürrierte Sojabohnen in einem Passiertuch von oben fotografiert.](web/IMG_0781-thumb.webp)](web/IMG_0781-thumb.webp)
+
 Nach den 10 Minuten nehmt ihr ein Passiertuch, legt dieses auf ein Sieb (optional, ist aber eine gute Hilfe) über einer Schüssel und gießt den Inhalt aus dem Topf ins Tuch. Somit trennen wir das [Okara](/articles/okara-2023-02-04/) (die pürierten Sojabohnen) von der Milch. Drückt den Inhalt aus und bedenkt, dass der Inhalt weiterhin heiß sein kann.
 
 Die Milch ist im Kühlschrank bis zu fünf Tage haltbar und das [Okara](/articles/Okara-2023-02-04/) kann direkt weiter verarbeitet werden.
