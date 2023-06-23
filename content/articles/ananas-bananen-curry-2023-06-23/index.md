@@ -39,6 +39,8 @@ taxonomies:
     - Kochen
     - Koch-Rezepte
 ---
+[![Eine Holzschale mit Tofu, Reis, Bananen und Ananas Curry](web/index.webp)](web/index-thumb.webp)
+
 Zwar besteht bereits ein Rezept für ein [Ananas-Bananencurry](/articles/banana-pineapple-curry-mit-reis-in-schnell-2018-12-18/) auf dem Blog, aber dieses neue Rezept ist komplexer und somit auch geschmacklich viel intensiver.
 
 <!-- more -->
