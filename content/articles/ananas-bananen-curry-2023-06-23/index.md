@@ -1,6 +1,6 @@
 ---
 title: Ananas-Banenen Curry
-date: 2023-04-03
+date: 2023-06-23
 extra:
   image: web/index.webp
 taxonomies:
