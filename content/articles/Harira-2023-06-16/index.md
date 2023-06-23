@@ -32,6 +32,7 @@ taxonomies:
     - Allgemein
     - Kochen-Vegan
     - Kochen-Vegetarisch
+    - Koch-Rezepte
 ---
 [![Arbeitsplatte mit unterschiedlichen Schüsseln und den einzelnen Zutaten in den Schüsseln](images/01-thumb.webp)](images/01.webp)
 Die traditionelle Suppe Harira stammt aus der nordafrikanischen Küche und ist besonders in Marokko beliebt. Die Suppe ist Bestandteil während des Ramadan, wenn die Menschen nach Sonnenuntergang wieder Speis und Trank zu sich nehmen dürfen. Hier folgt meine vegane Variante.

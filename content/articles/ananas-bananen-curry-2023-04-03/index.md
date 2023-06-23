@@ -6,29 +6,61 @@ extra:
 taxonomies:
   tags:
     - Rezept
+    - Tofu
+    - Maisstärke
+    - Kokosöl
+    - Charlotte
+    - Knoblauch
+    - Ingwer
+    - Kokosmilch
+    - Kurkuma
+    - Paprikapulver
+    - Chilipulver
+    - Ananas
+    - Banane
+    - Salz
+    - Pfeffer
+    - Reis
+    - Grüne Zwiebel
+    - Paprika
+    - Chili
+    - Karadom
+    - Pfefferkörner
+    - Kümmel
+    - Muskat
+    - Zimt
+    - Kürbiskerne
+    - Chilischoten
+    - Lorbeerblätter
   categories:
     - Allgemein
-draft: True
+    - Vegan-Kochen
+    - Vegetarisch-Kochen
+    - Kochen
+    - Koch-Rezepte
 ---
+Zwar besteht bereits ein Rezept für ein [Ananas-Bananencurry](/articles/banana-pineapple-curry-mit-reis-in-schnell-2018-12-18/) auf dem Blog, aber dieses neue Rezept ist komplexer und somit auch geschmacklich viel intensiver.
+
+<!-- more -->
 
 # Zutaten Curry
-* 200g Natur Tofu (Gewürfelt)
+* 200g Natur Tofu (gewürfelt)
 * 1 EL Maisstärke
 * 2 EL Kokosöl
-* 2 Chalotten (Gewürfelt)
-* 2 Knoblauchzehen (Gehackt)
-* 1 EL gehackter Ingwer (Gehackt)
+* 2 Charlotte (gewürfelt)
+* 2 Knoblauchzehen (gehackt)
+* 1 EL Ingwer (gehackt)
 * 150 ml Kokosmilch
 * 1 TL Kurkuma
 * 1 TL Paprikapulver
 * 1 TL Chilipulver
 * 200g Ananas (gewürfelt)
 * 1 Banane
-* Salz und Pfeffer nach bedarf
-* Reis nach belieben
+* Salz und Pfeffer nach Bedarf
+* Reis nach Belieben
 * 2 EL Grüne Zwiebel (gehackt)
-* 1 Gelbe oder Orangene Paprika
-* 1 Chili
+* 1 Gelbe oder Orange Paprika
+* 1 Chilischoten
 
 # Zutaten Würzmischung
 * 1/2 EL Karadom
@@ -40,23 +72,16 @@ draft: True
 * 1 TL Chiliflocken
 * 4 Lorbeeren Blätter
 
-Alle Zutaten der Würzmischung in ein Mörser geben und zermahlen, biss nur noch ein Pulver besteht. 
+Zuerst wird die Gewürzmischung vorbereitet. Hierfür werden Karadom, Pfefferkörner, Kümmel, Muskat, Zimt, Kürbiskerne, Chiliflocken und Lorbeerblätter in einem Mörser zerstampft bis wir ein grobes Pulver erhalten.
 
-Tofu ausdrücken und 1 EL der Gewürzmischug drúber streuen. Danach die Maisstärke. Alles gut vermischen, so dass der Tofu von allen Seiten mit Stärke bedeckt ist. 
+Danach drücken wir den Tofu aus, in dem wir einen schweren Gegenstand auf den Tofu stellen und diesen selber auf ein Küchentuch, damit die Flüssigkeit aufgezogen wird. 
+Nachdem ausdrücken wird der Tofu gewürfelt und mit einem Esslöffel bestreut und gut verteilt. Nun kann der Esslöffel Maisstärke darüber gestreut werden und auf alle Tofuwüfel verteilt werden. Ich schüttle hierfür die Schüssel und lass die Tofuwürfel in den Gewürzen und Stärke sich selber wälzen. Wenn alle Tofu würfel mit Stärke und Gewürzen bedeckt sind, werden die Tofuwürfel in Kokosöl angebraten, bis diese von allen Seiten knusprig sind.
+Während der Tofu anbrät, kann Reis gekocht werden.
+Sobald der Tofu fertig ist, wird dieser aus der Pfanne genommen und zur Seite gelegt. Im restlichen Öl braten wir die Charlotte an. Sobald die Charlotte Farbe bekommen haben, kommt der Ingwer, der Knoblauch und die Chilis hinzu, welche für ein bis zwei Minuten mit anbraten, bevor die Paprika in die Pfanne hinzugegeben wird. Diese wird ebenfalls für ein bis zwei Minuten angebraten.
 
-Tofu in Kokosöl anbraten, bis dieser von allen Seiten Knusprig ist.
-Währenddessen beginnen den Reis zu kochen.
-Rausnehmen und die die Chalotten im restlichen Öl anbraten. Danach Ingwer und Zwiebel und chilis hinzugeben und eine minute mit braten lassen, danach kommen die Paprikawürfel hinzu und wieder 1 Minute braten lassen.
-1 EL der Gewürzmischung, Kurkuma, Paprika und Chilipulver drüber streuen und kurz mit anbraten.
-Ananas und Bananen hinzugeben, Kokosmilch darüber giesen und mit Salz und Pfeffer abschmecken.
-Für 5 Minuten auf kleiner Flamme mit Deckel auf der Pfanne köcheln lassen.
-Tofu hinzugeben und kurz mitkÖcheln lassen.
-Zum Schluss kommen die Grünen Zwiebel darüber.
+Jetzt streuen wir über das Gemüse in der Pfanne einen Esslöffel unserer Gewürzmischung, Kurkuma, Paprika- und Chilipulver. Rührt und verteilt die Gewürze und lasst diese ebenso kurz anbraten.
+Die Ananas wird gewürfelt und die Bananen in Scheiben geschnitten, diese kommen nun ebenso in die Pfanne. Über das Ganze wird zum Schluss die Kokosmilch gegossen und mit Salz sowie Pfeffer abgeschmeckt.
 
-Fertig ist das Curry
+Das Curry wird für ca. fünf Minuten mit einem Deckel auf der Pfanne gekocht, bevor das Tofu und die grüne Zwiebel ins Curry gegeben werden. Lasst diese ebenfalls kurz mit kochen.
 
-
-||||
-:----:|:----:|:----:
-example|table|3|rows
-
+Jetzt ist das Curry servierfertig.
