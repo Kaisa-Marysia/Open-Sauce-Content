@@ -36,18 +36,22 @@ taxonomies:
 
 [![Eine Holzschale mit Curry und daneben befindet sich eine Schale mit indischen Chips](web/index.webp)](wen/index-thumb.webp)
 
+Ein einfaches und doch geschmacklich intensives Basis-Curry Rezept. Es muss nicht immer komplex sein, zu meist reichen einfach nur viele Gewürze.
+
+<!-- more -->
+
 # Zutaten Curry
 * 200g Natur Tofu (gewürfelt)
-* 1 EL Maisstärke
-* 2 EL Kokosöl
+* 200g Tomaten (gewürfelt)
 * 3 Schalotten (gewürfelt)
 * 3 Knoblauchzehen (gehackt)
-* 1 EL gehackter Ingwer (gehackt)
 * 100 ml Kokosmilch
+* 1 EL Ingwer (gehackt)
+* 2 EL Kokosöl
+* 1 EL Maisstärke
 * 1 TL Kurkuma
 * 1 TL Paprikapulver
 * 1 TL Chilipulver
-* 200g Tomaten (gewürfelt)
 * Salz und Pfeffer nach Bedarf
 * Reis nach Belieben
 
