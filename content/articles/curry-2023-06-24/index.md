@@ -34,7 +34,7 @@ taxonomies:
     - Koch-Rezepte
 ---
 
-[![Eine Holzschale mit Curry und daneben befindet sich eine Schale mit indischen Chips](web/index.webp)](wen/index-thumb.webp)
+[![Eine Holzschale mit Curry und daneben befindet sich eine Schale mit indischen Chips](web/index-thumb.webp)](web/index.webp)
 
 Ein einfaches und doch geschmacklich intensives Basis-Curry Rezept. Es muss nicht immer komplex sein, zu meist reichen einfach nur viele Gewürze.
 

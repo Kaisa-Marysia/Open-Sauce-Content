@@ -1,5 +1,5 @@
 ---
-title: Ananas-Banenen Curry
+title: Ananas-Bananen Curry
 date: 2023-06-23
 extra:
   image: web/index.webp
@@ -39,7 +39,7 @@ taxonomies:
     - Kochen
     - Koch-Rezepte
 ---
-[![Eine Holzschale mit Tofu, Reis, Bananen und Ananas Curry](web/index.webp)](web/index-thumb.webp)
+[![Eine Holzschale mit Tofu, Reis, Bananen und Ananas Curry](web/index-thumb.webp)](web/index.webp)
 
 Zwar besteht bereits ein Rezept für ein [Ananas-Bananencurry](/articles/banana-pineapple-curry-mit-reis-in-schnell-2018-12-18/) auf dem Blog, aber dieses neue Rezept ist komplexer und somit auch geschmacklich viel intensiver.
 
