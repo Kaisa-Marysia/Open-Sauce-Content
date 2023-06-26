@@ -74,6 +74,8 @@ Zwar besteht bereits ein Rezept für ein [Ananas-Bananencurry](/articles/banana-
 * 1 TL Chiliflocken
 * 4 Lorbeeren Blätter
 
+[![Arbeitsplatte mit unterschiedlichen Behälter und Schüssel, welch die Zutaten beinhalten](web/IMG_1367.webp)](web/IMG_1367.webp)
+
 Zuerst wird die Gewürzmischung vorbereitet. Hierfür werden Karadom, Pfefferkörner, Kümmel, Muskat, Zimt, Kürbiskerne, Chiliflocken und Lorbeerblätter in einem Mörser zerstampft bis wir ein grobes Pulver erhalten.
 
 Danach drücken wir den Tofu aus, in dem wir einen schweren Gegenstand auf den Tofu stellen und diesen selber auf ein Küchentuch, damit die Flüssigkeit aufgezogen wird. 
@@ -81,9 +83,15 @@ Nachdem ausdrücken wird der Tofu gewürfelt und mit einem Esslöffel bestreut u
 Während der Tofu anbrät, kann Reis gekocht werden.
 Sobald der Tofu fertig ist, wird dieser aus der Pfanne genommen und zur Seite gelegt. Im restlichen Öl braten wir die Charlotte an. Sobald die Charlotte Farbe bekommen haben, kommt der Ingwer, der Knoblauch und die Chilis hinzu, welche für ein bis zwei Minuten mit anbraten, bevor die Paprika in die Pfanne hinzugegeben wird. Diese wird ebenfalls für ein bis zwei Minuten angebraten.
 
+|||
+:--:|:--:
+[![Pfanne in der Tofuwürfel anbraten](web/IMG_1369-thumb.webp)](web/IMG_1369.webp)|[![Pfanne in der Zwiebel, knoblauch und Chilis geröstet werden](web/IMG_1372-thumb.webp)](web/IMG_1372.webp)
+
 Jetzt streuen wir über das Gemüse in der Pfanne einen Esslöffel unserer Gewürzmischung, Kurkuma, Paprika- und Chilipulver. Rührt und verteilt die Gewürze und lasst diese ebenso kurz anbraten.
 Die Ananas wird gewürfelt und die Bananen in Scheiben geschnitten, diese kommen nun ebenso in die Pfanne. Über das Ganze wird zum Schluss die Kokosmilch gegossen und mit Salz sowie Pfeffer abgeschmeckt.
 
 Das Curry wird für ca. fünf Minuten mit einem Deckel auf der Pfanne gekocht, bevor das Tofu und die grüne Zwiebel ins Curry gegeben werden. Lasst diese ebenfalls kurz mit kochen.
+
+[![Foto einer Pfanne in der das Curry kocht](web/IMG_1374.webp)](web/IMG_1374.webp)
 
 Jetzt ist das Curry servierfertig.

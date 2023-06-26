@@ -39,6 +39,7 @@ Wenn die Gewürzemischung fertig gebraten, Hülsenfrüchte dazu und mit Deckel m
 * 1 tl Salz
 * 1 EL geschmolzene Marganrine
 
+
 Verkneten, ausrolen und in einer Pfanne ohne Fett backen
 ||||
 :----:|:----:|:----:
