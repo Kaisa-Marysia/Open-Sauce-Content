@@ -12,24 +12,24 @@ draft: true
 ---
 
 # Zutaten
-* 100g Rote Linsen
-* 100g Grüne Moong Bohnen
-* 100g Gelbe Pferdebohnen
-*  Grüne Chili
-* Drei Tomaten 
+* 50g Rote Linsen
+* 50g Grüne Moong Bohnen
+* 50g Gelbe Pferdebohnen
+* Rote Paprika
+* 1 Tomaten 
 * Speise Zwiebel
-* 6+2 Knoblauch zehen
-* 3 tl Kurkuma Pulver
-* drei rote chilis
+* 5 Knoblauch zehen
+* 2 tl Kurkuma Pulver
+* 1 tl Chiliflocken
+* 1 Möhre
 * salz zum würzen
 
-Hülsenfrüchte in ein Topf mit Wasserbedecken und kochen deckel drauf (Zeit?) 18:20 - 18:40
+Pferdebohnen von der Schale trennen und Hülsenfrüchte in ein Topf mit Wasserbedecken und kochen mit deckel drauf (20-30min)
 
-Paste aus Chili und Knoblauch im Mörser
-Zwiebel Würfel und mit (?)Knoblauch anbraten bis glassig/gelblich
-Tomaten würfeln und Paste dazu. für 10 minuten mit braten
-Kurkuma pulver
-Drei rote chilis dazu
+Paste aus Paprika, Möhre und 2 Knoblauchzehen im Mörser zubereiten.
+Zwiebel Würfel und mit 4 Knoblauchzehen anbraten bis glassig/gelblich
+Tomaten würfeln und mit Paste dazu in die Pfanne. für 10 minuten mit braten
+Kurkuma pulver und Chiliflocken hinzugeben und anbraten.
 
 Wenn die Gewürzemischung fertig gebraten, Hülsenfrüchte dazu und mit Deckel min. 5 Min kochen.
 
