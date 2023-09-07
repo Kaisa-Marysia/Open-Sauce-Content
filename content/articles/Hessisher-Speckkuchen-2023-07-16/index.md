@@ -1,17 +1,6 @@
-#!/bin/bash
-DATE=$(date +%Y-%m-%d)
-TITLE=$1
-FILE=$(echo $TITLE-$DATE | sed 's/ /_/g')
-
-if [ -f "content/articles/$FILE/index.md" ]; then
-	$EDITOR content/articles/$FILE/index.md
-else
-  mkdir -p content/articles/images
-	mkdir -p content/articles/"$FILE"
-	cat <<EOF>content/articles/"$FILE"/index.md
 ---
-title: $TITLE
-date: $DATE
+title: Hessisher-Speckkuchen
+date: 2023-07-16
 extra:
   image: web/index.webp
 taxonomies:
@@ -34,6 +23,8 @@ draft: true
 :----:|:----:|:----:
 example|table|3|rows
 
-EOF
-fi
-
+Dinkel Teig zum ausrollen auf einem Blech (etwas dick, flexibel)
+Kartoffeln kochen, verstampfen und mit schmand und einem eiersatz vermischen.
+Auf den teig auf dem blech verstreichen
+speck und zwiebel anbraten und auf den speckkuchen verteifeln
+im ofen backen
