@@ -29,7 +29,7 @@ Zum Einlegen der Gurken wird nicht viel benötigt.
 
 # Zutaten
 - 500ml Wasser
-- 1 EL Salz
+- 1 EL Tafel Salz
 
 - 5 (oder mehr Gurken, je nach Größe)
 - Dill mit Blüten
