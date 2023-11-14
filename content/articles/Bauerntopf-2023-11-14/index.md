@@ -20,7 +20,7 @@ Dieses Rezept kann nach Belieben variiert und verändert werden, da ihr nicht au
 [![Arbeitsplatte mit unterschiedlichen Schallen und Behältern, in denen die Zutaten in Verarbeiter Form liegen](web/IMG_20231110_183153_MP~2-thumb.webp)](web/IMG_20231110_183153_MP~2.webp)
 
 # Zutaten
-* 200g veganes Hack (Gekauftes, [Okara](/), [Haferhack](/))
+* 200g veganes Hack (Gekauftes Hack, [Okara](/articles/okara-2023-02-04/), [Haferhack](/articles/hafer-hack-2022-09-12/))
 * 200g Kartoffel
 * 150g Paprika Grün
 * 200g Tomaten
