@@ -28,7 +28,7 @@ Um die Triologie der Rezepte mit Rosenkohl abzuschließen, gibt es noch ein Reze
 * 1 EL Mehl
 * 200ml Milch ( [Sojamilch](/articles/soja-milch-2023-02-04/) oder [Hafermilch](/articles/hafermilch-2022-01-29/) )
 * Hefeflocken oder veganen Käse
-* 1 EL [Honig](/articles/loewenzahn-sirup-2019-04-22/)
+* 1 EL [Sirup oder Dicksaft](/articles/loewenzahn-sirup-2019-04-22/)
 * Handvoll Schnittlauchringe
 * Muskatnuss
 * Salz
