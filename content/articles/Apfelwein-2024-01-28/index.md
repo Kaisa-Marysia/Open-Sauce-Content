@@ -19,6 +19,8 @@ Als jemand, welch die meiste Zeit des Lebens in Hessen aufwuchs, verspüre ich g
 Dabei ist die Herstellung nicht kompliziert. Es nimmt Zeit in Anspruch, bis wir den ersten Trunk genießen können.
 <!-- more -->
 
+[![Ein schwarzer Korb gefuellt mit unterschiedlichen Äpfeln](web/01-thumb.webp)](web/01.webp)
+
 Für die Herstellung brauchen wir tatsächlich nicht viel, aber nicht im jeden Haushalt vorhanden sind.
 
 # Zutaten
