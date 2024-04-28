@@ -36,6 +36,6 @@ Die entstandene Masse wird mit einem Liter Wasser, in einem Topf zum Kochen gebr
 
 Nach den 10 Minuten nehmt ihr ein Passiertuch, legt dieses auf ein Sieb (optional, ist aber eine gute Hilfe) über einer Schüssel und gießt den Inhalt aus dem Topf ins Tuch. Somit trennen wir das [Okara](/articles/okara-2023-02-04/) (die pürierten Sojabohnen) von der Milch. Drückt den Inhalt aus und bedenkt, dass der Inhalt weiterhin heiß sein kann.
 
-Die Milch ist im Kühlschrank bis zu fünf Tage haltbar und das [Okara](/articles/Okara-2023-02-04/) kann direkt weiter verarbeitet werden.
+Die Milch ist im Kühlschrank bis zu fünf Tage haltbar und das [Okara](/articles/okara-2023-02-04/) kann direkt weiter verarbeitet werden.
 
 [![Drei Flaschen von vorne fotografiert, gefüllt mit Sojamilch](web/IMG_0797-thumb.webp)](web/IMG_0797.webp)
