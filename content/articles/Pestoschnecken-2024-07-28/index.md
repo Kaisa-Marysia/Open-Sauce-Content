@@ -6,6 +6,35 @@ extra:
 taxonomies:
   tags:
     - Rezept
+    - Dinkelmehl
+    - Weizenmehl
+    - Mehl
+    - Trockenhefe
+    - Zucker
+    - Salz
+    - Milch
+    - Hafermilch
+    - Sojamilch
+    - Margarine
+    - Pesto
+    - Kümmel
+    - Pfeffer
+    - Thymian
+    - Rosmarin
+    - Kurkuma
+    - Paprikapulver
+    - Rauchsalz
+    - Haferhack
+    - Okara
+    - Hack
+    - Schalotte
+    - Möhre
+    - Knoblauchzehen
+    - Tomatenmark
+    - Sojasauce
+    - Löwenzahnsirup
+    - Tomate
+    - Feta
   categories:
     - Allgemein
     - Kochen-Vegan
@@ -29,7 +58,7 @@ Letztens wollte ich in meinem Hackspace etwas anderes kochen, aber ein heftiges 
 * 1 Esslöffel Gewürzmischung aus: Kümmel, Salz, Pfeffer, Thymian, Rosmarin, Kurkuma, Paprikapulver, Rauchsalz
 
 # Zutaten Hackfleisch
-* 200 Gramm Hackfleisch (Zum Beispiel [Haferhack](/articles/hafer-hack-2022-09-12/) oder [Okara](/articles/okara-2023-02-04/))
+* 200 Gramm gehacktes (Zum Beispiel [Haferhack](/articles/hafer-hack-2022-09-12/) oder [Okara](/articles/okara-2023-02-04/))
 * 1 Schalotte
 * 1 Möhre
 * 2 Knoblauchzehen
