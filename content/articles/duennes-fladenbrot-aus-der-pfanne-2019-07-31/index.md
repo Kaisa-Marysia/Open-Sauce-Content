@@ -12,6 +12,7 @@ taxonomies:
     - Back-Rezepte
     - Backen-Vegan
     - Backen-Vegetarisch
+    - Brot
     tags:
       - "brot"
       - "fladenbrot"

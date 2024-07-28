@@ -16,6 +16,7 @@ taxonomies:
     - Backen-Vegan
     - Backen-vegetarisch
     - Back-Rezepte
+    - Brot
 ---
 [![Sauerteigbrot mit einer abgeschnitten Scheibe auf einem karrierten Küchentuch](web/9fbf0716-0b05-4fef-9567-d01c68330252-thumb.webp)](web/9fbf0716-0b05-4fef-9567-d01c68330252.webp)
 Die Vorbereitung für Sauerteigbrot benötigt etwas Zeit, da der Teig mehrere Stunden gehen muss. 

@@ -9,6 +9,7 @@ taxonomies:
     - Backen-Vegan
     - Back-Rezepte
     - Backen-Vegetarisch
+    - Brot
   tags:
     - "backen"
     - "brot"

@@ -18,6 +18,7 @@ taxonomies:
     - Back-Rezepte
     - Backen-Vegan
     - Backen-Vegetarisch
+    - Brot
 ---
 
 Bei diesem Rezept handelt es sich um eine Abwandlung des Bauernbrotes, welches mit dem [Eichelmehl](/articles/eichelmehl-2023-04-02/) zubereitet wurde. 

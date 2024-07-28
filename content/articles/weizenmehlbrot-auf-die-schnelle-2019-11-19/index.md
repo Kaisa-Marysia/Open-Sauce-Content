@@ -9,6 +9,7 @@ taxonomies:
     - Backen-Vegetarisch
     - Allgemein
     - Back-Rezepte
+    - Brot
     tags:
       - "auf-die-schnelle"
       - "brot"

@@ -23,6 +23,7 @@ taxonomies:
     - Backen-Vegan
     - Backen-Vegetarisch
     - Back-Rezepte
+    - Brot
 ---
 Bei diesem Brot kommt eine gewisse Luftigkeit, durch den Joghurt, ins innere vom Brot und der Fenchel gibt eine kleine Würze hierzu.
 

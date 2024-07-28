@@ -24,6 +24,7 @@ taxonomies:
     - Back-Rezepte
     - Backen-Vegan
     - Backen-Vegetarisch
+    - Brot
     - auf-die-schnelle
     - auf-die-schnelle-vegetarisch
     - auf-die-schnelle-vegan

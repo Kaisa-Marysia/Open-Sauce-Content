@@ -51,7 +51,6 @@ name = "Koch-Rezepte"
 links = [
   {title = 'Vegan ', url = '/categories/kochen-vegan'},
   {title = 'Vegetarisch ', url = '/categories/kochen-vegetarisch'},
-  {title = 'Carne', url = '/categories/kochen-carne'},
 ]
 
 [[extra.menu]]
@@ -59,6 +58,7 @@ name = "Back-Rezepte"
 links = [
   {title = 'Vegan ', url = '/categories/backen-vegan'},
   {title = 'Vegetarisch ', url = '/categories/backen-vegetarisch'},
+  {title = 'Brot', url = '/categories/brot'},
 ]
 
 [[extra.menu]]
@@ -66,7 +66,6 @@ name = "Auf-die-Schnelle"
 links = [
   {title = 'Vegan ', url = '/categories/auf-die-schnelle-vegan'},
   {title = 'Vegetarisch ', url = '/categories/auf-die-schnelle-vegetarisch'},
-  {title = 'Carne ', url = '/categories/auf-die-schnelle-carne'},
 ]
 
 [[extra.menu]]
