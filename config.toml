@@ -5,8 +5,8 @@ default_language = "en"
 compile_sass = true
 title = "OpenSauce"
 description = "Free And Open Sauce - Kochblog by Kaisa-Marysia"
-generate_feed = true
-feed_filename = "atom.xml"
+generate_feeds = true
+#feed_filenames = atom.xml
 output_dir = "public"
 
 taxonomies = [
