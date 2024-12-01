@@ -12,7 +12,7 @@ template: about.html
 
 Angaben gemäß § 5 TMG:
 
-Paul Kura<br>
+Kaisa-Marysia Kura<br>
 Im Sudahl 3<br>
 33100 Paderborn
 
