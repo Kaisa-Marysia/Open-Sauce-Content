@@ -30,8 +30,10 @@ tag = 'Posts by Topic'
 tags = 'Posts by Topics'
 
 icons = [
-  {title = 'Mail', icon = 'mail', url = 'mailto:kaisa-marysia@qra-it.de'},
+  {title = 'Mail', icon = 'mail', url = 'mailto:info@open-sauce.de'},
   {title = 'Mastodon', icon = 'mastodon', url = 'https://chaos.social/@kasiandra'},
+  {title = 'RSS', icon = 'rss', url = '/atom.xml'},
+  {title = 'Git', icon = 'git', url = 'https://github.com/Kaisa-Marysia/Open-Sauce-Content'},
 ]
 
 data_themes = [

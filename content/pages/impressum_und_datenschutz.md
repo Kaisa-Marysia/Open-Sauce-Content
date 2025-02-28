@@ -18,7 +18,7 @@ Im Sudahl 3<br>
 
 ## Kontakt:
 
-**Email**: info [at] elektrollart.org
+**Email**: info [at] open-sauce.de
 ### PGP
 
 **ID**: 8BDBF3AB<br>
