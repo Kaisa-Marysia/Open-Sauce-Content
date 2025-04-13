@@ -51,7 +51,7 @@ Bei meiner letzten Biokisten Bestellung waren Auberginen und ich wollte mich dar
 
 ||||
 :----:|:----:|:----:
-[![Halbierte Auberginen, Knobluach, Zwiebel und TOmaten](/web/02.webp)](/web/02-thumb.webp)|[![Zwei halbe Auberginen in einem Bambuskorb](/web/03.webp)](/web/03-thumb.webp)|[![Wokpfanne mit Tomaten und Zwiebel](/web/04.webp)](/web/04-thumb.webp)|[![Gedämpfte halbe Auberginen in zwei Bambuskorb](/web/05.webp)](/web/05-thumb.webp)
+[![Halbierte Auberginen, Knobluach, Zwiebel und TOmaten](web/02-thumb.webp)](web/02.webp)|[![Zwei halbe Auberginen in einem Bambuskorb](web/03-thumb.webp)](web/03.webp)|[![Wokpfanne mit Tomaten und Zwiebel](web/04-thumb.webp)](web/04.webp)|[![Gedämpfte halbe Auberginen in zwei Bambuskorb](web/05-thumb.webp)](web/05.webp)
 
 Die Auberginen waschen, köpfen und der Länge nach halbieren, und diese in einem Bambuskorb Dampfgaren.
 Die Tomaten werden im gekreuzt angeschnitten und blanchiert.
@@ -60,7 +60,7 @@ Zwiebel in Olivenöl anschwitzen und Tomatenwürfel und Essig hinzugeben und fü
 
 ||||
 :----:|:----:|:----:
-[![Eine Handvoll mit Erdmandeln](/web/06.webp)](/web/06-thumb.webp)|[![Mischbehälter mit Haferflocken, Salz und gerösteten Erdmandeln](/web/07.webp)](/web/07-thumb.webp)
+[![Eine Handvoll mit Erdmandeln](web/06-thumb.webp)](web/06.webp)|[![Mischbehälter mit Haferflocken, Salz und gerösteten Erdmandeln](web/07-thumb.webp)](web/07.webp)
 
 Die Erdmandeln bzw. Cashew rösten und mit zwei Esslöffel Haferflocken, einen halben Teelöffel Salz, Knoblauchgranulat, mit einem Stabmixer zerkleinern und mischen.
 
@@ -69,8 +69,8 @@ Vermischt die Füllung mit dem Pesto, Erdmandeln und Paniermehl und drei ausgepr
 
 ||||
 :----:|:----:|:----:
-[![Foto einer grünen Shüssel in der die Füllung sich befindet und zwei Bambuskörbe mit ausgehüllten Auberginen](/web/08.webp)](/web/08-thumb.webp)|[![Brettchen mit gefüllten Auberginen](/web/09.webp)](/webp/09-thumb.webp)|[![Pfanne in dennen Auberginen angebraten werden](/web/10.webp)](/web/10-thumb.webp)
+[![Foto einer grünen Shüssel in der die Füllung sich befindet und zwei Bambuskörbe mit ausgehüllten Auberginen](web/08-thumb.webp)](web/08.webp)|[![Brettchen mit gefüllten Auberginen](web/09-thumb.webp)](web/09.webp)|[![Pfanne in dennen Auberginen angebraten werden](web/10-thumb.webp)](web/10.webp)
 
 Befüllt die Auberginen und bratet diese kopfüber an und serviert diese auf der Tomatensoße.
 
-[![Teller mit Auberginen auf Tomatensoße](/web/01.webp)](/web/01-thumb.webp)
+[![Teller mit Auberginen auf Tomatensoße](web/01-thumb.webp)](web/01.webp)
