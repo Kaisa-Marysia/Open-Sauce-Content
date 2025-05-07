@@ -68,7 +68,7 @@ Die Möhren werden ebenso in mundgerechte Würfel geschnitten. Der Lauch wird kl
 
 
 Bratet den Ingwer in einer Pfanne oder Wok mit Pflanzenöl an, damit dieses Geschmack zieht und gebt dann die klein geschnittene Chili hinzu. Nach wenigen Minuten kommen Zwiebel und Knoblauch in die Pfanne.
-Lasst das für etwa fünfminuten braten und gebt die Möhren hinzu. Wer will, kann nach weiteren Fünf Minuten etwas [veganen Honig](articles/loewenzahn-sirup-2019-04-22/) dazu geben und die Basis karamelisieren. Nun kann der klein geschnittene Stiel vom Brokkoli, Kohlrabi und die Pok Choy Stängel mit in die Pfanne und nach wenigen Augenblicken mit Wasser aufgefüllt werden.
+Lasst das für etwa fünfminuten braten und gebt die Möhren hinzu. Wer will, kann nach weiteren Fünf Minuten etwas [veganen Honig](/articles/loewenzahn-sirup-2019-04-22/) dazu geben und die Basis karamelisieren. Nun kann der klein geschnittene Stiel vom Brokkoli, Kohlrabi und die Pok Choy Stängel mit in die Pfanne und nach wenigen Augenblicken mit Wasser aufgefüllt werden.
 Zum Schluss kommen noch vier Nelken zur Suppe.
 Dies lassen wir jetzt für 45 Minuten mit Deckel darauf kochen.
 
