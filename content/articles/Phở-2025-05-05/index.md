@@ -53,7 +53,7 @@ Phở ist eine traditionelle Suppe der vietnamesischen Küche, welch ich mit hie
 * 1/2 Kohlrabi
 * 1/4 Bund Lauch
 * Reisnudeln
-* [No-Fischsoße](articles/vegane-fischsosse-2025-04-29/)
+* [No-Fischsoße](/articles/vegane-fischsosse-2025-04-29/)
 * Ein Chili
 * Zwei Liter Wasser
 * Etwas Zimt
