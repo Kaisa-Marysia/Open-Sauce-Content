@@ -84,15 +84,12 @@ Alternativ kann diese ohne Öl auf einem Backpapier bei 180 Grad im Ofen für 30
 
 Jetzt müssen nur noch die Reisnudeln als Beilage mit gekocht werden und der Sesam in einer Pfanne ohne Öl geröstet werden.
 
-Zur Suppe geben wir nun etwas [No-Fischsoße](articles/vegane-fischsosse-2025-04-29/), Zimt, Koriander, Salz und Pfeffer hinzu und trennen das Gemüse von der Brühe.
+Zur Suppe geben wir nun etwas [No-Fischsoße](/articles/vegane-fischsosse-2025-04-29/), Zimt, Koriander, Salz und Pfeffer hinzu und trennen das Gemüse von der Brühe.
 
 Die Shitake Pilze braten wir noch scharf an und dann können wir schon in einem tiefen Teller, die Nudeln, Pok Choy Blätter, Brokkoli, die Shitake Pilze arrangieren.
 Nu kann die Brühe hinzugegeben werden und das Sesam über unser Phở gestreut werden.
 
 [![Ein blau-weißer tiefer Teller mit Reisnudeln Brokkoli, Pok Choy Blättern, Shitake Pilzeund Tempeh](web/IMG_20250504_183922~2-thumb.webp)](web/IMG_20250504_183922~2.webp)
-[![Ein tieferteller mit Suppe aus Reisnudeln, Brokkoli, Shitake Pilze, Pok Choy Blättern, Tempeh und mit Sesam besteut](web/IMG_20250504_184033~2-thumb.webp)](IMG_20250504_184033~2.webp)
+[![Ein tieferteller mit Suppe aus Reisnudeln, Brokkoli, Shitake Pilze, Pok Choy Blättern, Tempeh und mit Sesam besteut](web/IMG_20250504_184033~2-thumb.webp)](web/IMG_20250504_184033~2.webp)
 
 Wer will, kann auch etwas Sriracha dazu mischen.
-
-
-  
