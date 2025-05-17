@@ -18,9 +18,9 @@ taxonomies:
     - Kochen-Vegan
     - Koch-Rezepte
     - Kochen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Auf-Die-Schnelle
+    - Auf-Die-Schnelle-vegetarisch
+    - Auf-Die-Schnelle-vegan
 draft: false
 ---
 Bevor der Mai vorbei ist und alle Triebe ausgewachsen sind, möchte ich meinen letzten Versuch mit euch teilen. Ein Pesto aus Fichten und Tannenspitzen.
