@@ -2,36 +2,40 @@
 title: Fichten-Sirup
 date: 2025-06-01
 extra:
-  image: web/index.webp
+  image: web/IMG_20250627_062402.webp
 taxonomies:
   tags:
     - Rezept
+    - Fichtentriebe
+    - Tannentriebe
+    - Zucker
+    - Wasser
   categories:
     - Allgemein
     - Kochen-Vegan
     - Koch-Rezepte
     - Kochen-Vegetarisch
-    - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
-draft: true
+draft: false
 ---
+
+Mai ist die Zeit, in der Nadelbäume ihre Triebe wachsen. In dem Zustand sind diese noch frisch und saftig und können nicht nur zu einen leckeren Pesto verarbeitet werden, sondern auch zu einem Sirup.
+
+<!-- more -->
+
+**Hinweis** Macht euch bitte schlau, wie Tannen, Fichten und Eiben erkannt werden können. Die Eibe ist giftig und kann weit aus mehr Schaden einrichten als nur Bauchschmerzen. Die einfachen Erkennungsmerkmale sind, dass die Nadeln Sichelförmig und Flach sind. Erinnern etwas an eine kleine Palme. Die Nadeln sind Flach wie bei einer Tanne aber einheitlich Grün. Zusätzlich wachsen bei der Eibe rote giftige Beeren. Liest mehr zur Eibe in der [Wikipedia](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Eibe).
+
+[![Eine metallische Schale mit Fichtentrieben](web/01-thumb.webp)](web/01.webp)
 
 # Zutaten
 * 100 Gramm Nadeltriebe
 * 150 Gramm Zucker
 * 250 Mililiter Wasser
+* Zitronensaft
 
-30 Minuten kochen lassen.
-Dann einen Tag stehen lassen.
-Nadeln vom Saft trennen und Zucker hinzugeben.
-Ein Schuss Zitronensaft
-Kochen lassen bis der Sirup die gewünschte Konsitenz hat. Durchschnittlich 90 Minuten
+Legt die Triebe in einen Topf mit Wasser und lasst diese mit Deckel drauf für 30 Minuten köcheln. Danach lässt ihr dies für einen Tag stehen. 
+Am nächsten Tag entnehmt ihr die Triebe aus dem Wasser, gegebenfalls filtert ihr das Wasser falls zum Beispiel einzelne Nadeln im Wasser schwimmen sollten.
+Nun kommt der Zucker und ein schuss Zitronensaft hinzu.
+Das ganze wird nun auf kleiner Flamme gekocht, bis der Sirup die gewünschte Konsitenz hat. 
+Nach meiner Erfahrung sollte dies nach etwa Neunzigminuten eingedickt sein. Je länger es köchelt, desto dickflüssiger wird die Konsistenz.
 
-||||
-:----:|:----:|:----:
-example|table|3|rows
-
+[![Ein Glas mit Schraubverschluss in dem sich eine rötliche Sirupflüssigkeit befindet](web/IMG_20250627_062402-thumb.webp)](web/IMG_20250627_062402.webp)
