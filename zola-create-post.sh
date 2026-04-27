@@ -3,6 +3,10 @@ DATE=$(date +%Y-%m-%d)
 TITLE=$1
 FILE=$(echo $TITLE-$DATE | sed 's/ /_/g')
 
+if [ -z $TITLE ]; then
+  echo "set a name without spaces"
+fi
+
 if [ -f "content/articles/$FILE/index.md" ]; then
 	$EDITOR content/articles/$FILE/index.md
 else
