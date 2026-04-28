@@ -7,8 +7,7 @@ taxonomies:
     categories:
         - Allgemein
         - Koch-Rezepte
-        - Kochen-Vegan
-        - Kochen-Vegetarisch
+        - Auf-die-Schnelle
     tags:
         - Spitzpaprika
         - Zwiebel

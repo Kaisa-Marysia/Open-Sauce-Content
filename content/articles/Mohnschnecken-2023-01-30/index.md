@@ -18,8 +18,7 @@ taxonomies:
     categories:
         - Allgemein
         - Back-Rezepte
-        - Backen-Vegan
-        - Backen-Vegetarisch
+        - Kuchen
 ---
 Zu unserem letzten Spieleabend hatte ich eine Überraschung im Gepäck, und zwar habe ich Mohnschnecken gemacht. Diese zeichneten sich nicht nur davon aus, dass der Teig luftig wurde, sondern durch Mohn und Süße auch schmackhaft. Leider musste ich die Schnecken für den Transport bereits auseinander nehmen, weshalb die beteiligten am Spieleabend nicht die runde Form vernehmen konnten.
 

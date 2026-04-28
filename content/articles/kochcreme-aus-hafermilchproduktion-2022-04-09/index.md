@@ -7,11 +7,7 @@ taxonomies:
   categories:
     - Allgemein
     - Koch-Rezepte
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
+    - Basics
   tags:
     - "brei"
     - "creme"

@@ -28,8 +28,6 @@ taxonomies:
     - Ingwer
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
 ---
 

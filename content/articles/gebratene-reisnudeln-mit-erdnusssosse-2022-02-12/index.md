@@ -6,8 +6,6 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
   tags:
     - "bambussprossen"
@@ -110,5 +108,5 @@ Bratet die Zwiebel, bis diese glasig sind und gebt nach und nach Paprika, Kohlra
 Falls der Ofen eine Grillfunktion hat, kann unser Fleischersatz für maximal fünf Minuten an gegrillt werden. Portioniert die Nudeln und Gemüse auf ein Teller, legt den Fleischersatz darauf und gebt etwas Erdnusssoße hinzu.
 
 |||
-::|::
+:---:|:---:
 [![überbackene Seitanfilets in einer Auflaufform, die aus dem Ofen hervorstehen](images/wp-1643142933975-thumb.webp)](images/wp-1643142933975.webp)|[![Seitanfilets mit Erdnussoße auf gebratenen Gemüse in einer Holzschale](images/wp-1643142937451-thumb.webp)](images/wp-1643142937451.webp)

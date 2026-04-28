@@ -16,11 +16,7 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Kuchen
 ---
 Zwar nicht so weihnachtlich, aber ganzjährig geeignet. Haferplätzchen mit Peanut-Butter Creme als Füllung. Leicht und schnell gemacht. 
 

@@ -6,8 +6,6 @@ extra:
 taxonomies:
     categories:
       - Allgemein
-      - Kochen-Vegan
-      - Kochen-Vegetarisch
       - Koch-Rezepte
     tags:
       - "eiersatz"
@@ -39,7 +37,7 @@ Hier einmal die Auflistung der Zutaten für 2-3 (je nach Größe) Frikadellen.
 Den Tofu könnt ihr vorher marinieren oder einlegen, falls ihr einen bestimmen Grundgeschmack erreichen wollt. Zerrupft den Tofu in kleine Fetzen und gebt die Gewürze hinzu. Vermengt das ganze und gebt das Pflanzen Öl hinzu. Verknetet das ganze, so dass ihr die Haferflocken nicht mehr wahr nimmt. Hier ein Tipp von mir. Alles wird an euren Fingern kleben und abfärben. Eventuell nehmt ihr Handschuhe beim Arbeiten oder benutzt ein Küchengerät hierfür. Bei mir war dies reine Handarbeit. Ich habe frische Kräuter wie Petersilie für den Geschmack hinzugefügt.
 
 ||||
-::|::|::
+:---:|:---:|:---:
 [![Klein geriebener Tofu in einer grünen Schale](images/IMG_20210101_194639-300x300.webp)](images/IMG_20210101_194639.webp)|[![Tofu mit Kräutern und Gewürzen in einer grünen Schale](images/IMG_20210101_194705-1024x1024.webp)](images/IMG_20210101_194705.webp)|[![Kräuter und Gewürze wurden mit dem Tofu zu einer Masse Vermengt](images/IMG_20210101_194813-300x300.webp)](images/IMG_20210101_194813.webp)
 
 

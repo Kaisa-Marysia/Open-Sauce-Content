@@ -5,13 +5,10 @@ extra:
  image: images/wp-1596837062076-1024x1023.webp
 taxonomies:
  categories:
-   - Kochen-Vegan
-   - Kochen-Vegetarisch
    - Koch-Rezepte
-   - Auf-Die-Schnelle
-   - Auf-Die-Schnelle-Vegan
-   - Auf-Die-Schnelle-Vegetarisch
+   - Auf-die-Schnelle
    - Allgemein
+   - Brot
  tags:
    - "maismehl"
    - "mehl"

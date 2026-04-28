@@ -24,9 +24,7 @@ taxonomies:
     - Olivenöl
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Bei meiner letzten Biokisten Bestellung waren Auberginen und ich wollte mich daran setzen, daraus was zu zaubern, da ich nie zuvor mit Auberginen gekocht habe.
 

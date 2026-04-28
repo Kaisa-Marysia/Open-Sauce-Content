@@ -6,8 +6,8 @@ extra:
 taxonomies:
     categories:
         - Allgemein
-        - Backen-Vegan
         - Back-Rezepte
+        - Kuchen
     tags:
         - Mehl
         - Margarine
@@ -24,7 +24,7 @@ taxonomies:
 
 [![Einzelne Zutaten in derer Verpackung](images/IMG_20181126_073954-1024x1024.webp)](images/IMG_20181126_073954.webp)
 
-Bei uns in der Familie gibt es wohl nur eine Art des Kuchens. Auch wenn wir gerne backen und noch lieber Kuchen essen, ist es doch der Käsekuchen den wir favorisieren. Zumindest ist es eine Pflicht zu gewissen Anlässen, dass ein Käsekuchen auf dem Tisch steht. Da ich gerne auch eine vegane Variante backen wollte und ein Rezept suchte, welches ich auch als Küchlein oder Muffin zubereiten kann, bin ich zum Schluss bei einen American Cheesecake gelandet. Der Teig ist dabei ein einfacher Mürbeteig, die Füllung besteht aus Seidentofu und Soja Joghurt, die optionale Soße kann man sehr flott aus Marmelade zaubern. Da ich den Cheesecake gerne transportieren wollte, nahm ich erneut die kleinen Einmachgläschen von IKEA. Diese sind echt super zum Backen und selbst in der Spülmaschine machen die mir keine Sorgen.
+Bei uns in der Familie gibt es wohl nur eine Art des Kuchens. Auch wenn wir gerne backen und noch lieber Kuchen essen, ist es doch der KäseKuchen den wir favorisieren. Zumindest ist es eine Pflicht zu gewissen Anlässen, dass ein KäseKuchen auf dem Tisch steht. Da ich gerne auch eine vegane Variante backen wollte und ein Rezept suchte, welches ich auch als Küchlein oder Muffin zubereiten kann, bin ich zum Schluss bei einen American Cheesecake gelandet. Der Teig ist dabei ein einfacher Mürbeteig, die Füllung besteht aus Seidentofu und Soja Joghurt, die optionale Soße kann man sehr flott aus Marmelade zaubern. Da ich den Cheesecake gerne transportieren wollte, nahm ich erneut die kleinen Einmachgläschen von IKEA. Diese sind echt super zum Backen und selbst in der Spülmaschine machen die mir keine Sorgen.
 
 [![Cheesecake im Einmachgläschen mit einem Kleks Marmelade](images/IMG_20181126_074913-1024x1024.webp)](images/IMG_20181126_074913.webp)
 
@@ -45,7 +45,7 @@ Sobald der Teig zu einer Kugel geformt werden kann, wiegelt diese in eine Frisch
 
 [![Teig aus Margarine, Mehl, Zucker und Wasser zu einem großen Klumpen geformt und in Frischhaltefolie eingewickelt](images/IMG_20181126_074059-1024x1024.webp)](images/IMG_20181126_074059.webp)
 
-Die **Füllung** welche den Käsekuchen auch ausmacht, muss natürlich auch vorbereitet werden. Ihr braucht neben den Zutaten ein  hohes Behältnis und ein Stabmixer oder vergleichbares um alle Zutaten zu einer cremigen Soße zu verrühren. Mit einen Rührgerät sollte es auch klappen.
+Die **Füllung** welche den KäseKuchen auch ausmacht, muss natürlich auch vorbereitet werden. Ihr braucht neben den Zutaten ein  hohes Behältnis und ein Stabmixer oder vergleichbares um alle Zutaten zu einer cremigen Soße zu verrühren. Mit einen Rührgerät sollte es auch klappen.
 
 ## Zutaten:
 

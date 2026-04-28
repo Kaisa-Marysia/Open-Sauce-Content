@@ -14,9 +14,8 @@ taxonomies:
     - Knoblauch
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
+    - Basics
 ---
 Bei Okara handelt es sich um die Reste, welche bei der [Sojamilch](/articles/soja-milch-2023-02-04/)produktion entsteht. 
 Die pürierte Sojabohnen lassen sich mit Gewürzen verfeinern und zu Hackbällchen, Frikadellen und Nuggets verarbeiten.

@@ -16,15 +16,9 @@ taxonomies:
     - Milch
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Brot
 draft: false
 ---
 Zu Ostern konnte ich nicht schlafen und habe dadurch die Motivation erhalten, wider etwas zu backen und zu experimentieren, wodurch ein simples Rezept für einen Hefezopf entstand.

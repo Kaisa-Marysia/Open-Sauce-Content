@@ -6,12 +6,7 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-vegetarisch
     - Koch-Rezepte
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-vegetarisch
-    - Auf-Die-Schnelle-Vegan
   tags:
     - "curry-pulver"
     - "hafer-kochcreme"

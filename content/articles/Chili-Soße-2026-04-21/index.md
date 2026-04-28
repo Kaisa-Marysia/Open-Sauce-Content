@@ -15,12 +15,7 @@ taxonomies:
     - Tomatenmark
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Basics
 draft: false
 ---
 Was ich gerne zum Kochen und Würzen nehme, ist eine Sriracha-Soße. Diese gibt es in unterschiedlichen Facetten, was ich nicht mag ist die Plastik Verpackung.

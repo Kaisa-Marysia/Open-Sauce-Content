@@ -14,12 +14,10 @@ taxonomies:
     - Minze
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 draft: false
 ---
-Die Sommerzeit ist die Zeit von Holunderblüten und diese können nicht nur in Pfannkuchen verarbeitet werden, sondern sind ebenso als Sirup ein wunderbarer Honigersatz und süßen Nachtisch wie Waffeln.
+Die Sommerzeit ist die Zeit von Holunderblüten und diese können nicht nur in PfannKuchen verarbeitet werden, sondern sind ebenso als Sirup ein wunderbarer Honigersatz und süßen Nachtisch wie Waffeln.
 
 <!-- more -->
 Sammelt die Dolden abseits der Straße, achtet darauf, dass alle Knospen offen sind und nicht befallen sind. 

@@ -6,9 +6,7 @@ extra:
 taxonomies:
   categories:
    - Allgemein
-   - Kochen-Vegan
    - Koch-Rezepte
-   - Kochen-Vegetarisch
   tags:
    - "erdbeeren"
    - "knoedel"

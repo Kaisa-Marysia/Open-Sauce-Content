@@ -41,9 +41,7 @@ taxonomies:
     - Öl
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 
 Einer meiner Experimente war es mal eine vegane Wurst herzustellen. Dabei habe ich mich mehr an osteuropäischer Wurst orientiert als die eher fade deutsche Wurst.

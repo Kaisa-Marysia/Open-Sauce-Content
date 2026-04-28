@@ -5,14 +5,17 @@ extra:
     image: images/IMG_20191027_195944.webp
 taxonomies:
     categories:
-        - Kochen-Vegan
-        - Kochen-Vegetarisch
         - Koch-Rezepte
         - Allgemein
+        - Auf-die-Schnelle
     tags:
       - "nachtisch"
       - "pudding"
       - "suess"
+      - Speisestärke
+      - Zucker
+      - Kakao
+      - Hafermilch
 ---
 
 [![Blau-Weiße Schale mit Schokopudding in dem ein Löffel steckt](images/IMG_20191027_195944-1024x1024.webp)](images/IMG_20191027_195944.webp)
@@ -23,7 +26,7 @@ Also gab es spontan Schoko Pudding. Für die Basis benötigt man nicht viel.
 - 50g Speisestärke
 - 20g Zucker
 - Kakao nach Bedarf.
-- 0,3L Milch(ersatz)
+- 0,3L vegane Milch nach bedarf
 
 [![Speisestärke mit Zucker und Kakaopulver vermischt](images/IMG_20191027_195926-300x300.webp)](images/IMG_20191027_195926.webp)
 

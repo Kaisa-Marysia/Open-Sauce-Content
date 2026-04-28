@@ -19,10 +19,8 @@ taxonomies:
     - Vegan Feta
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
-    - Auf-Die-Schnelle
+    - Auf-die-Schnelle
 ---
 Wenn es mal wieder auf die schnelle gehen soll und auch der Aufwand soll nicht so groß sein, dann kann einfach eine Süßkartoffel in den Ofen.
 

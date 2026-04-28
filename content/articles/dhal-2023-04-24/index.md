@@ -22,11 +22,6 @@ taxonomies:
   categories:
     - Allgemein
     - Koch-Rezepte
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
 ---
 
 [![Holzschale mit Dhal und Chapati Brot](web/index.webp)](web/index.webp)

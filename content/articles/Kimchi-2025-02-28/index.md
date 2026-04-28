@@ -18,9 +18,7 @@ taxonomies:
     - Sojasoße
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 ---
 
 Kimchi ist in der koreanischen Küche aus Kohl und Rettich, welch durch Fermentation zubereitet wird. 

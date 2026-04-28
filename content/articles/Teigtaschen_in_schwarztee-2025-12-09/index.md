@@ -24,9 +24,7 @@ taxonomies:
     - Essig
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 draft: false
 ---
 Durch eine Reportage auf ARTE, über eine Familie in der Steppe der Mongolei, wurde ich inspiriert dieses Rezept niederzuschreiben. Die Zubereitung ist nicht schwer, da wir nur einen Teig zubereiten, eine Füllung nach Wahl zubereiten und die Teigtaschen in schwarzen Tee kochen.

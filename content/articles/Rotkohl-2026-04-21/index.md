@@ -14,9 +14,7 @@ taxonomies:
     - Zucker
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 draft: false
 ---
 Rotkohl ist eines meiner Lieblingsbeilagen zu einem guten Sonntagsessen oder im Vöner. Dies gehört für mich einfach dazu. Was ich hingegen nicht mag, dass es Rotkohl entweder in solch Plastiktüten (dafuq) sich befinden, oder sich die Gläser bei mir sammeln.

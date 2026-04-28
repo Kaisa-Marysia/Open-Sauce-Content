@@ -1,12 +1,11 @@
 ---
-title: "&#x1f95c;&#x1f35a;&#x1f962; Tofu auf Reis mit Erdnusssauce"
+title: "Tofu auf Reis mit Erdnusssauce"
 date: "2019-03-13"
 extra:
     image: images/IMG_20190306_163943-1024x1024.webp
 taxonomies:
     categories:
     - Allgemein
-    - Kochen-Vegetarisch
     - Koch-Rezepte
     tags:
     - "erdnuesse"

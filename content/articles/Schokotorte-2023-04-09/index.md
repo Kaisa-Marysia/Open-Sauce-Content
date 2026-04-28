@@ -17,8 +17,7 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
+    - Kuchen
 ---
 Gegebenenfalls erinnert sich, wer daran, dass ich vor längere ein Rezept für eine [Schoko-Kokos-Torte](/articles/schokotorte-2023-04-02/) aufgeschrieben habe. 
 Die Kokos Torte kann entsprechend auch als Schoko Torte gebacken werden. Hierzu müssen nur kleine Änderungen vorgenommen werden. Das Rezept ist ausgelegt auf eine Springform mit 20 cm Durchmesser.
@@ -71,4 +70,4 @@ Bereitet die Schokoladenglasur nach Anleitung zu und gießt diese über die Tort
 
 |||
 :---:|:---:
-[![Eine ganze Schokoladentorte mit Schokoladenguss und Hasselnusskrokant auf einem Teller](web/IMG_0632-thumb.webp)](web/IMG_0632.webp)|[![Ein Stück Torte auf einem Teller](web/IMG_20220918_184638-thumb.webp)](web/IMG_20220918_184638.webp)
+[![Eine ganze Schokoladentorte mit Schokoladenguss und Hasselnusskrokant auf einem Teller](web/IMG_0632.webp)](web/IMG_0632.webp)|[![Ein Stück Torte auf einem Teller](web/IMG_20220918_184638-thumb.webp)](web/IMG_20220918_184638.webp)

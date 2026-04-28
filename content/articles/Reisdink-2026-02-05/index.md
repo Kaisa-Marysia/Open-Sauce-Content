@@ -14,12 +14,7 @@ taxonomies:
     - Milch
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Basics
 draft: false
 ---
 Durch das Schauen einer Reportage über einen Reisbauer aus Japan, bin ich auf die Idee gekommen ein Reisdrink, als Milchersatz zu erstellen. 

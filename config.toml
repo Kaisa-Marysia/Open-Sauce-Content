@@ -49,25 +49,22 @@ links = []
 
 [[extra.menu]]
 name = "Koch-Rezepte"
-links = [
-  {title = 'Vegan ', url = '/categories/kochen-vegan'},
-  {title = 'Vegetarisch ', url = '/categories/kochen-vegetarisch'},
-]
+links = []
 
 [[extra.menu]]
 name = "Back-Rezepte"
 links = [
-  {title = 'Vegan ', url = '/categories/backen-vegan'},
-  {title = 'Vegetarisch ', url = '/categories/backen-vegetarisch'},
+  {title = 'Gebäck', url = '/categories/kuchen'},
   {title = 'Brot', url = '/categories/brot'},
 ]
 
 [[extra.menu]]
 name = "Auf-die-Schnelle"
-links = [
-  {title = 'Vegan ', url = '/categories/auf-die-schnelle-vegan'},
-  {title = 'Vegetarisch ', url = '/categories/auf-die-schnelle-vegetarisch'},
-]
+links = []
+
+[[extra.menu]]
+name = "Basics"
+links = []
 
 [[extra.menu]]
 name = "Open-Sauce"

@@ -5,7 +5,6 @@ extra:
     image: images/IMG_20191130_191038-1024x1024.webp
 taxonomies:
     categories:
-      - Kochen-Vegetarisch
       - Koch-Rezepte
       - Allgemein
     tags:
@@ -21,8 +20,6 @@ taxonomies:
 [![Räuchertofu mit Curry-Tomatensoße und Pommes mit Käse-Lauch-Soße](images/IMG_20191130_191038-1024x1024.webp)](images/IMG_20191130_191038-1024x1024.webp)
 
 Ich habe mich letztens an einer Käsesoße als Dip für meine Nachos probiert. Da dies nicht so gut geklappt hatte, wollte ich es ausbessern und ich muss gestehen, so bin ich mehr als zufrieden. Aber vorerst an den Anfang.
-
-[![Lauch, Schablettenkäse, Mandelmilch und eine kleine Tonschale](images/IMG_20191130_191805-150x150-thumb.webp)](images/IMG_20191130_191805.webp)
 
 Zuerst brauchen wir folgende Zutaten:
 
@@ -42,10 +39,10 @@ Presst die Flüssigkeit aus dem Tofu, indem ihr es auf einen Teller legt, mit et
 Hierfür benötigen wir:
 
 * 2 EL Mandel Milch  
-* 6x Scheiblettenkäse nach Wahl  
+* veganen Reibekäse
 * ca. 1 EL gehackten Lauch und Petersilie
 
-Ihr braucht eine Schale, welche Ihr in den Ofen stellen könnt. Zerkleinert den Käse und legt diese in die Schale. Gibt nun die Mandel-Milch hinzu und legt das Lauch und die Petersilie darüber.
+Ihr braucht eine Schale, welche Ihr in den Ofen stellen könnt. Legt den veganen Reibekäse diese in die Schale und vermischt es mit der Mandel-Milch hinzu und legt das Lauch und die Petersilie darüber.
 
 Heizt den Ofen auf 100 Grad vor.
 

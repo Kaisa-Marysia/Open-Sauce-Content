@@ -26,9 +26,7 @@ taxonomies:
     - Majoran
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 
 Bei meinem letzten Besuch bei meiner Familie hat mein Vater für uns gekocht. Hierfür hat er eine Bohnensuppe nach serbischer Art zubereitet und etwas abgewandelt. Da mir das Rezept zugesagt hat, wollte ich die Suppe ebenfalls etwas abwandeln. Zu meiner Änderung gehört eine Chilischote und Kohlrabi anstelle von Sellerie, da mir die Zutat gefällt hat.

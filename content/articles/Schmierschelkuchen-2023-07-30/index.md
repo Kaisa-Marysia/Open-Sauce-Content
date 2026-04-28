@@ -1,5 +1,5 @@
 ---
-title: Schmierschelkuchen
+title: SchmierschelKuchen
 date: 2023-07-30
 extra:
   image: web/index.webp
@@ -8,15 +8,10 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Auf-die-Schnelle
+    - Auf-die-Schnelle-vegan
 draft: true
 ---
 

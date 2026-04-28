@@ -16,8 +16,6 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Brot
 ---
 

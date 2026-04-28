@@ -5,13 +5,9 @@ extra:
   image: images/wp-1600896241324-1024x939.webp
 taxonomies:
   categories:
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
     - Allgemein
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
+    - Auf-die-Schnelle
   tags:
     - "kala-namak"
     - "kurkuma"

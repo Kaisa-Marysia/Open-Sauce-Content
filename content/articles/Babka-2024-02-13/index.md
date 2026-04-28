@@ -21,11 +21,10 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
+    - Kuchen
 ---
 Gestern habe ich in meinem Hackspace die Küche wieder belagert und Foodhacking betrieben. 
-Ich habe mich gefragt, wie würde ich einen Osteuropäischen süßen Hefekuchen zaubere und habe deshalb experimentiert. 
+Ich habe mich gefragt, wie würde ich einen Osteuropäischen süßen HefeKuchen zaubere und habe deshalb experimentiert. 
 Ich entschloss mich für eine jüdische Variante und wie es sich für mich gehört nur mit ausschließlich veganen Zutaten.
 
 <!-- more -->
@@ -48,7 +47,7 @@ Sobald die Hefe in der [Hafermilch](/articles/hafermilch-2022-01-29/) anfängt z
 Das ganze wird nun geknetet, bis wir einen gleiten Teig erhalten und nichts mehr an der Schüssel kleben bleibt. 
 Legt einen Deckel auf die Schüssel und stellt den Teig für eine Stunde an einen warmen Ort, damit der Teig gehen kann. 
 
-[![Verzwirbelter Hefekuchen in einer mit Backpapier ausgelegten Backform](web/IMG_20240212_184514~2-thumb.webp)](web/IMG_20240212_184514~2.webp)
+[![Verzwirbelter HefeKuchen in einer mit Backpapier ausgelegten Backform](web/IMG_20240212_184514~2-thumb.webp)](web/IMG_20240212_184514~2.webp)
 
 Danach kann dieser auf einer bemehlten Oberfläche dünn ausgerollt werden, sodass dieser in eine lange Backform passt. 
 Jetzt können wir die Schokolade in einem Wasserbad schmelzen und mit dem Kakaopulver vermischen. 

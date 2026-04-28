@@ -15,12 +15,8 @@ taxonomies:
       - Tofu
     categories:
       - Allgemein
-      - Kochen-Vegan
-      - Kochen-Vegetarisch
       - Koch-Rezepte
-      - Auf-Die-Schnelle
-      - Auf-Die-Schnelle-Vegan
-      - Auf-Die-Schnelle-Vegetarisch
+      - Auf-die-Schnelle
 ---
 Szare Kluski ist ein weiteres traditionelles Gericht der großpolnischen Küche und sehr einfach zuzubereiten. Man benötigt nicht nur Kartoffeln, Stärke und Salz. Meine Mutter hat Szare Kluski immer mit Rührei gemacht, weshalb meine Variante mit [Scrambled Tofu](/articles/nudeln-mit-scrambled-tofu-2020-09-24/) zu bereitet wird.
 

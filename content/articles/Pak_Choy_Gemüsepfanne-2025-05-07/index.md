@@ -28,9 +28,7 @@ taxonomies:
     - Brokoli
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 draft: false
 ---
 Die Tage hatte ich Phở Chay Suppe gemacht und weil ich noch reichlich Gemüse übrig hatte, dachte ich anstelle einer weiteren Suppe, bereite ich eine Gemüsepfanne zu.

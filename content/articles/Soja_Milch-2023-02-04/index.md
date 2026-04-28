@@ -11,11 +11,7 @@ taxonomies:
     - Wasser
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen
-    - Vegetarisch
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 
 ---
 Neben der [Hafermilch](/articles/hafermilch-2022-01-29/), ist es eine Leichtigkeit Sojamilch selber zu produzieren. Hierfür werden lediglich nur 100g Sojabohnen und 1L Wasser zum Aufkochen benötigt.

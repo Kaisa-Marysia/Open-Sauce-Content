@@ -15,12 +15,8 @@ taxonomies:
     - Salz
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegetarisch
-    - Auf-Die-Schnelle-Vegan
+    - Basics
 draft: false
 ---
 Bevor der Mai vorbei ist und alle Triebe ausgewachsen sind, möchte ich meinen letzten Versuch mit euch teilen. Ein Pesto aus Fichten und Tannenspitzen.

@@ -8,9 +8,7 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 draft: false
 ---
 In vielen Südostasiatischen Rezepten wird die Hinzugabe von Fischsoße erwähnt, da diese nicht vegan ist und ich von Kindesalter an Fisch als meinen Erzfeind ansehe (noch nie kam was gutes aus dem Meer hervor), musste ich dies veganisieren.

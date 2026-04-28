@@ -12,9 +12,7 @@ taxonomies:
     - Walnuss und Essig
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
-    - Koch-Rezepte
+    - Basics
 ---
 
 Ich habe viele Rezepte ausprobiert, um Tofu selber zu machen und es hat mich viel Zeit und Sojabohnen gekostet. Dies war aber jenes mit dem besten Ergebnis für mich.

@@ -21,12 +21,8 @@ taxonomies:
     - Knoblauch
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Auf-die-Schnelle
 ---
 Bei diesem ungarisch inspirierten Gericht handelt es sich um ein schnelle und einfache Pilzpfanne in Paprikasauce. Dabei sind die Spaghetti optional, da das Gericht auch mit Kartoffeln oder Reis zubereitet werden kann.
 

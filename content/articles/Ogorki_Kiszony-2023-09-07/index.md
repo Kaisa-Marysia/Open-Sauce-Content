@@ -13,12 +13,8 @@ taxonomies:
     - Dill
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-vegetarisch
-    - Auf-Die-Schnelle-vegan
+    - Basics
 ---
 
 Wie es bei den anderen Familien in Polen aussieht, weiß ich nicht, aber bei uns wurden Gurken immer eingelegt. Somit bin ich damit aufgewachsen, eine Gurke immer zwischendurch zu snacken oder zu fast allem essen. Auch wurden die Gurken zu Suppen verarbeitet. Im Grunde würde ich polnische Salzgurken als Grundnahrungsmittel bezeichnen.

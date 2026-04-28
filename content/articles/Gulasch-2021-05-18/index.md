@@ -7,8 +7,6 @@ taxonomies:
     categories:
       - Allgemein
       - Koch-Rezepte
-      - Kochen-Vegetarisch
-      - Kochen-Vegan
     tags:
       - "chunks"
       - "gemuesebruehe"

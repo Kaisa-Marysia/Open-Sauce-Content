@@ -23,8 +23,6 @@ taxonomies:
     - Zwiebel
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
 ---
 Außen knusprig, innen saftig und das Ganze ist auch nicht schwer nachzumachen. Diese Taler eigenen sich ebenso gut als Snack oder Vorspeise. Für Acht solcher Taler benötigt man nicht viel und lediglich die Vorbereitung des Hacks nimmt gegebenenfalls Zeit in Anspruch.
@@ -36,13 +34,13 @@ Außen knusprig, innen saftig und das Ganze ist auch nicht schwer nachzumachen. 
 * 200g Maismehl
 * 200ml Wasser
 * Prise Salz
-* (Hafer) Hack
+* [(Hafer) Hack](/articles/hafer-hack-2022-09-12/)
 * eine Chilischote
 * ein TL Paprika gewürz
 * etwas Pfeffer
 * ein EL Tomatenmark
 * ein EL Sojasoße
-* ein EL Honig
+* ein EL [Honig](/articles/loewenzahn-sirup-2019-04-22)
 * eine Schalotte
 * zwei Knoblauch Zehen
 * Öl zum Frittieren
@@ -53,9 +51,9 @@ Außen knusprig, innen saftig und das Ganze ist auch nicht schwer nachzumachen. 
 
 ## (Vorbereitung) Hack
 
-Die Schalotte, Chilischote und das Knoblauch werden klein geschnitten und dem Hack hinzugegeben. Das Tomatenmark wird mit der Sojasoße und Honig vermischt und mit dem Hack vermischt. Dass ganze wird mit dem Paprikapulver, Salz und Pfeffer gewürzt. Nach dem Würzen soll das ganze ziehen, je länger, desto besser. In meinen Fall waren dies 24h, dies kann aber auch um einiges kürzer sein (10 Min). Nachdem das Hack gezogen hat, kann dieses ganz Regulär angebraten werden.
+Die Schalotte, Chilischote und das Knoblauch werden klein geschnitten und dem Hack hinzugegeben. Das Tomatenmark wird mit der Sojasoße und [Honig](/articles/loewenzahn-sirup-2019-04-22) vermischt und mit dem Hack vermischt. Dass ganze wird mit dem Paprikapulver, Salz und Pfeffer gewürzt. Nach dem Würzen soll das ganze ziehen, je länger, desto besser. In meinen Fall waren dies 24h, dies kann aber auch um einiges kürzer sein (10 Min). Nachdem das Hack gezogen hat, kann dieses ganz Regulär angebraten werden.
 
-Die Erbsen im Bild stammen bei mir aus dem Hafer Hack Rezept, welcher aus den Resten meiner [Hafermilch](/articles/hafermilch-2022-01-29) entstand.
+Die Erbsen im Bild stammen bei mir aus dem [Hafer Hack Rezept](/articles/hafer-hack-2022-09-12/), welcher aus den Resten meiner [Hafermilch](/articles/hafermilch-2022-01-29) entstand.
 
 ## Maistaler
 
@@ -65,7 +63,7 @@ Nun können wir uns an die Maistaler machen. Hierfür wird das Wasser mit dem Ma
 :----:|:----:
 [![Ausgerollter Teig mit einer Frischhaltefolie bedeckt.](thumb/03-150x150.webp)](web/03.webp) | [![Teig mit ausgestochene Taller auf einer roten Silkonmatte](thumb/04-150x150.webp)](web/04.webp)
 
-Rollt den Teig nicht zu dünn aus und stecht runde Fladen mithilfe eines Glases oder Ausstechform heraus. Diese befüllt ihr dann mit dem Hack und bedeckt dies mit einem zweiten Fladen, drückt dabei die Ränder zusammen. Mit leicht befeuchteten Händen können diese nun mit den inneren Handflächen zu den Talern gedrückt werden und verschlossen werden.
+Rollt den Teig nicht zu dünn aus und stecht runde Fladen mithilfe eines Glases oder Ausstechform heraus. Diese befüllt ihr dann mit dem [Hack](/articles/hafer-hack-2022-09-12/) und bedeckt dies mit einem zweiten Fladen, drückt dabei die Ränder zusammen. Mit leicht befeuchteten Händen können diese nun mit den inneren Handflächen zu den Talern gedrückt werden und verschlossen werden.
 
 [![Maistaller belegt mit Hack. Maistaler ohne füllung und ein weiterer Taller, welcher bereits bedeckt ist.](web/05.webp)](web/05.webp)
 

@@ -6,9 +6,8 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Back-Rezepte
+    - Kuchen
   tags:
     - Mehl
     - Maragine

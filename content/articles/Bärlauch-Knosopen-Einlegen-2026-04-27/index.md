@@ -1,34 +1,37 @@
 ---
-title: Bärlauch Knosopen Einlegen
+title: Bärlauch Knospen Einlegen
 date: 2026-04-27
 extra:
-  image: web/index.webp
+  image: web/IMG_20260427_124744_HDR~2.webp
 taxonomies:
   tags:
     - Rezept
+    - Bärlauchknospen
+    - Kräuteressig
+    - Essig
+    - Zucker
+    - Pfeffer
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - auf-die-schnelle
+    - Basics
 draft: false
 ---
-Bärlauch Knospen eigenen sich gut als Knoblauch ersatz, zum Beispiel beim anbraten von Bratkartoffeln.
+Bärlauch Knospen eigenen sich gut als Knoblauchersatz, zum Beispiel beim Anbraten von Bratkartoffeln.
 Damit die länger haltbar sind, können diese auch eingelegt werden.
 
 <!-- more -->
 
+[![Bärlauchknospen in einer metallischen Schale](web/IMG_20260427_173802_HDR~2-thumb.webp)](web/IMG_20260427_173802_HDR~2.webp)
+
 # Zutaten
-* Zwei Handvoll Bärlauchknopsen
-* 150 Mililiter (Kräuter)Essig
-* 1/2 Esslöffel Zucker
-* 2-3 Pfefferkörner
+* 200 Gramm Bärlauchknospen
+* 450 Milliliter (Kräuter)Essig
+* 1 Esslöffel Zucker
+* 5 Pfefferkörner
 
-Die Knospen waschen und in Schraubglas unterbringen, welches vorher bei 140 Grad für 15 Minuten entkeimt wurde.
-Essig, Zucker und Pfeffer bringen wir in einem Topf zum köcheln und lasse es dann für eine Minute stehen
-Danach die Flüssigkeit ins Glas umfüllen und fest verschließen. Auf den Kopf stellen und für mindestens eine Woche stehen lassen.
+Die Knospen waschen, Stängel entfernen und in Schraubglas unterbringen, welches vorher bei 140 Grad für 15 Minuten entkeimt wurde.
+Essig, Zucker und Pfeffer bringen wir in einem Topf zum Köcheln und lasse es dann für eine Minute stehen
+Zum Abschluss wird die Flüssigkeit ins Glas umgefüllt und fest verschlossen. 
+Auf den Kopf stellen und für mindestens eine Woche stehen lassen.
 
-||||
-:----:|:----:|:----:
-example|table|3|rows
-
+[![Schraubglas mit eingelegten Bärlauchknospen](web/IMG_20260427_124744_HDR~2-thumb.webp)](web/IMG_20260427_124744_HDR~2.webp)

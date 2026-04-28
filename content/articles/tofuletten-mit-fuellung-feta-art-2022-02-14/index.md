@@ -7,8 +7,6 @@ taxonomies:
     categories:
       - Allgemein
       - Koch-Rezepte
-      - Kochen-Vegan
-      - Kochen-Vegetarisch
     tags:
       - "brot"
       - "buletten"
@@ -55,13 +53,13 @@ für 6 Kugel
 Das Brot wird klein gerupft und mit einem Schuss [Hafermilch](/articles/hafermilch-2022-01-29) eingeweicht. Sollte die Kruste hart sein, kann diese mit einer Reibe bearbeitet werden. Das Tofu kann nun eben so zerrupft und zum Brot hinzugegeben werden. Schlagt die Mischung mit einer Gabel.
 
 |||
-::|::
+:---:|:---:
 [![Bild einer grünen Schüssel in welcher Brot mit Milch vermischt ist](images/img_20220213_131939-thumb.webp)](images/img_20220213_131939.webp)|[![Tofu gemischt mit Kräutern, Gewürzen und Zwiebeln in einer Schüssel](images/img_20220213_132139-1024x1024-thumb.webp)](images/img_20220213_132139-1024x1024.webp)
 
 Nun muss in einem Mixer die Leinsamen zu Mehl verarbeitet werden, damit wir davon einen Esslöffel mit drei Esslöffel heißen Wasser vermischen und fünf Minuten ziehen lassen können, bevor wir es zum Tofu hinzugeben. Die Zwiebel wird gewürfelt und die Knoblauchzehen klein gehackt, diese kommen ebenso zum Tofu. Würzt das ganze mit Petersilie, Salz, Pfeffer und Paprikapulver.
 
 ||||
-::|::|::
+:---:|:---:|:---:
 [![Aus Tofu geformte Hackbällchen](images/img_20220213_132215-thumb.webp)](images/img_20220213_132215.webp)|[![vegane Feta Stücke auf einem Brettchen](images/img_20220213_132044-thumb.webp)](images/img_20220213_132044.webp)|[![Hackbällchen mit leichter bräune auf Backpapier und Backblech](images/img_20220213_132302-thumb.webp)](images/img_20220213_132302.webp)
 
 Nun verknetet die Mischung. Würfelt den veganen Feta und formt mit diesen und dem Tofu sechs Kugeln. Diese Kugeln kommen auf ein mit Backpapier belegtes Blech und für 40 Minuten in ein Ofen, welches wir auf 180 Grad vorgeheizt haben. Der Feta kann optional weggelassen werden.
@@ -71,7 +69,7 @@ Nun verknetet die Mischung. Würfelt den veganen Feta und formt mit diesen und d
 Je nachdem ob wir die Tofuletten mit dem Feta zubereitet haben oder nicht, entscheidet wie wir die Tofuletten servieren. Ein Beispiel ist es mit Reis, Tomatensoße und mit Schmelz überbacken. Der Reis wird gekocht und in eine Auflaufform gegeben. Für die Tomatensoße habe ich Paprika, Tomaten und Möhren angebraten, mit Weißweinessig gelöscht und dann mit Wasser aufgekocht. Die Auflaufform war nur so lange im Ofen, bis der geriebene Schmelz schmolz.
 
 |||
-::|::
+:---:|:---:
 [![Hackbällchen auf Reis mit Tomatensoße und Streukäse](images/img_20220213_132412-thumb.webp)](images/img_20220213_132412.webp)|[![Mit Käse überbackene Hackbällchen mit Reis](images/axg059-thumb.webp)](images/axg059.webp)
 
 Alternativ können diese ohne dem Feta, mit Kartoffeln, Rotkohl und einer dunklen Soße serviert werden. Geschmacklich war ich zufrieden und auch, dass die Kruste die Buletten aus Tofu zusammen hielten. Diese sind auch sehr zart und luftig im inneren.

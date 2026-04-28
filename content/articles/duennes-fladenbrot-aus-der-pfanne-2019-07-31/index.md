@@ -6,12 +6,8 @@ extra:
 taxonomies:
     categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Brot
     tags:
       - "brot"
@@ -44,7 +40,7 @@ Für Vier kleine Portionen, benötigt man nicht viele Zutaten und einiges kann m
 - 1 EL Kräuter der Provinz
 
 ||||
-::|::|::|
+:---:|:---:|:---:|
 [![Grüne Schale mit Teig](images/IMG_20190714_181801-1024x1024-thumb.webp)](images/IMG_20190714_181801-1024x1024.webp)|[![Etwas Teig aus der Schale, welcher auf einem Holzbrett platt gedrückt wurde.](images/IMG_20190714_181635-1024x1024-thumb.webp)](images/IMG_20190714_181635-1024x1024.webp)|[![Dünn ausgerollter Teigfladen](images/IMG_20190714_181659-1024x1024-thumb.webp)](images/IMG_20190714_181659-1024x1024.webp)
 
 
@@ -53,7 +49,7 @@ Alle trocknen Zutaten in eine Schüssel geben und vermischen. Danach gebt das Ö
 Vom Teig reißt ihr ein Stück ab und rollt dieses auf einer bemehlten Oberfläche aus.
 
 |||
-::|::
+:---:|:---:
 [![Teigfladen in einer Pfanne](images/IMG_20190714_181602-1024x1024-thumb.webp)](images/IMG_20190714_181602-1024x1024.webp)|[![Gestapeltes Fladenbrot auf einem Teller](images/IMG_20190714_181516-1024x1024-thumb.webp)](images/IMG_20190714_181516-1024x1024.webp)
 
 
@@ -62,5 +58,5 @@ Sobald die Pfanne heiß ist, gießt den Teig in die Pfanne. Nach ca. 2 Minuten k
 Das Fladenbrot kann man gut mit Tofu Geschnetzelten fühlen. Für mein Beispiel, machte ich Bratlinge mit einer Knoblauchsoße auf Salat darauf.  
 
 ||||
-::|::|::
+:---:|:---:|:---:
 [![Teller im Zentrum, drum herum ist ein Glas mit Knoblauchsoße, ein Teller mit Bratlingen, eine Schale mit Salat, ein Teller mit Fladenbrot und eine Schale mit Tomaten und Gurken](images/IMG_20190714_181501-1024x1024-thumb.webp)](images/IMG_20190714_181501-1024x1024.webp)|[![Belegter Fladen mit Salat, Bratling und Soße](images/IMG_20190714_181346-1024x1024-thumb.webp)](images/IMG_20190714_181346-1024x1024.webp)|[![Belegter Fladen mit Slat, Bratling und Soße](images/IMG_20190714_181420-1024x1024-thumb.webp)](images/IMG_20190714_181420-1024x1024.webp)

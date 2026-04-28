@@ -9,11 +9,8 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Auf-die-Schnelle
+    - Auf-die-Schnelle-vegan
 draft: true
 ---
 

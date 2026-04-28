@@ -31,8 +31,6 @@ taxonomies:
   categories:
     - Allgemein
     - Koch-Rezepte
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
 ---
 Dieses ungarische Schmorgericht, ist in Osteuropa verbreitet und zählt zumindest bei uns, zu einem Standardgericht. Durch die Tomaten und Paprika kommt ein fruchtiger Geschmack und durch die Gewürze bekommt das Leczo seine Schärfe, welche man abstimmen kann. Durch die Zugabe von zum Beispiel geräucherten Tofu, erhält man ebenso eine gute Rauchnote.
 

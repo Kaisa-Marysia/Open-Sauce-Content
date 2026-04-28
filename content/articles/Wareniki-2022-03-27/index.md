@@ -6,8 +6,6 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Kochen-Vegetarisch
-    - Kochen-Vegan
     - Koch-Rezepte
   tags:
     - "hack"

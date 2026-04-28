@@ -30,8 +30,6 @@ taxonomies:
     - Mehl
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
 ---
 [![Arbeitsplatte mit unterschiedlichen Schüsseln und den einzelnen Zutaten in den Schüsseln](images/01-thumb.webp)](images/01.webp)

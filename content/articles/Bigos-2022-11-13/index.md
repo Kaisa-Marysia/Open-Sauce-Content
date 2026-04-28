@@ -35,17 +35,17 @@ taxonomies:
     - Honigersatz
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 
 ---
 [![Tonschale mit Krauteintopf und drei scheiben Baguette](web/IMG_0902.webp)](web/IMG_0902.webp)
->  „Im Kessel wurde Bigos gekocht. Es ist schwer in Worte zu fassen. Der Geschmack so merkwürdig, die Farbe und der Geruch so wunderbar: Worte sind nur ein Summen und die Reime Zufall; aber den Inhalt wird nur der Magen verstehen.“
+*„Im Kessel wurde Bigos gekocht. Es ist schwer in Worte zu fassen. Der Geschmack so merkwürdig, die Farbe und der Geruch so wunderbar: Worte sind nur ein Summen und die Reime Zufall; aber den Inhalt wird nur der Magen verstehen.“*
 <br>
 – Adam Mickiewicz: Pan Tadeusz
 <br>
+
 Weiter geht es mit der traditionellen osteuropäischen Küche, welche ververganisiert wurde. Dieses mal geht es um ein polnisches Nationalgericht, welches bei uns in der Familie zur kalten Jahreszeit zubereitet wird.
+
 <!-- more -->
 
 Dabei wird ein großer Topf genommen, da der Bigos über eine längere Zeit die Bäuche vollstopfen soll. Dieses Gericht ist nicht nur in Polen bekannt, auch in der West-Ukraine (Бігос - Bigos), Belarus (Бігас Bigas) und auch in Litauen (Bigoss) wird dieses zubereitet.

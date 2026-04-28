@@ -9,6 +9,7 @@ taxonomies:
     - Eicheln
   categories:
     - Allgemein
+    - Basics
 ---
 Im Herbst lassen die Laubbäume ihre Eicheln fallen und im Gegensatz zum verbreiteten Wissen, sind Eicheln unter Bedienungen essbar. Diese müssen jedoch vorbereitet werden, in dem die gesäubert und gewässert werden. Dies war auch schon der ländlichen Bevölkerung in früheren Jahren bekannt, weshalb diese zum Winter hin, das Mehl mit jenen von Eicheln gestreckt haben. Das Mehl lässt sich zum backen von Brot oder Gebäck nutzen. Zum Beispiel für Nussplätzchen eignet sich das Mehl hervorragend. Eichelmehl hat einen intensiven Eigengeschmack und ohne dem Strecken des Mehls, wird der Geschmack sehr gewöhnungsbedürftig.
 

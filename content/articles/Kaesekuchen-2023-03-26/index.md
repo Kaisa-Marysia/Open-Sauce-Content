@@ -1,5 +1,5 @@
 ---
-title: Käsekuchen
+title: KäseKuchen
 date: 2023-04-01
 extra:
   image: web/index.webp
@@ -17,12 +17,11 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
+    - Kuchen
 ---
 
 Einige können sich noch an das [Cheesecake Rezept](/articles/american-cheesecake-style-2018-12-04/) erinnern. 
-Auf dieser Basis habe ich nun ein Rezept für Käsekuchen geschrieben und es etwas vereinfacht. Die Vorbereitung und Backzeit nimmt etwa zwei Stunden in Anspruch, da wir einen Mürbeteig machen müssen.
+Auf dieser Basis habe ich nun ein Rezept für KäseKuchen geschrieben und es etwas vereinfacht. Die Vorbereitung und Backzeit nimmt etwa zwei Stunden in Anspruch, da wir einen Mürbeteig machen müssen.
 
 <!-- more -->
 
@@ -53,19 +52,19 @@ Für die Füllung werden alle Zutaten in einer Schüssel vermischt. Dies funktio
 
 ||||
 :---:|:---:|:---:
-[![Springform mit Mürbeteig ausgekleidet auf einer hölzener Arbeitsplatte](web/IMG_1306-thumb.webp)](web/IMG_1306.webp)|[![Sprintform mit Müberteig und Füllung auf einer hölzener Arbeitsplatte](web/IMG_1308-thumb.webp)](web/IMG_1308.webp)|[![Käsekuchen auf einer Herdplatte von oben fotografiert](web/IMG_1309-thumb.webp)](web/IMG_1309.webp)
+[![Springform mit Mürbeteig ausgekleidet auf einer hölzener Arbeitsplatte](web/IMG_1306-thumb.webp)](web/IMG_1306.webp)|[![Sprintform mit Müberteig und Füllung auf einer hölzener Arbeitsplatte](web/IMG_1308-thumb.webp)](web/IMG_1308.webp)|[![KäseKuchen auf einer Herdplatte von oben fotografiert](web/IMG_1309-thumb.webp)](web/IMG_1309.webp)
 
 Bereitet nun den Backofen vor und heizt diesen auf 180 Grad Ober- und Unterhitze vor.
 Währenddessen kann der Teig aus dem Kühlschrank und in einer eingefetteten Springform (20cm) ausgedrückt werden. 
 Dabei sollte der Boden recht Dünn sein und die Wände bis zum oberen Rand gedrückt werden. Nehmt hierzu eure Daumen zur Hilfe.
 Ist die Form mit dem Teig ausgekleidet, kann zum Schluss die Füllung in die Springform gegossen werden. 
 
-Der Käsekuchen kommt für 60 Minuten in den Ofen auf das mittlere Blech. 
+Der KäseKuchen kommt für 60 Minuten in den Ofen auf das mittlere Blech. 
 
-Fertig ist der Käsekuchen, wenn die Füllung Goldbraun ist.
+Fertig ist der KäseKuchen, wenn die Füllung Goldbraun ist.
 Nach der Backzeit wird der Kuchen vorsichtig herausgeholt und stehen gelassen, bis dieser abgekühlt ist, da sonst der Mürbeteig und die Füllung zu weich sind.
 
 |||
 :---:|:---:
-[![Käsekuchen von der Seite fotografiert. Am meisten zu sehen is der Teig.](web/IMG_1310-thumb.webp)](web/IMG_1310.webp)|[![Stück eines Käsekuchens auf einem Teller](web/IMG_1321-thumb.webp)](web/IMG_1321.webp)
+[![KäseKuchen von der Seite fotografiert. Am meisten zu sehen is der Teig.](web/IMG_1310-thumb.webp)](web/IMG_1310.webp)|[![Stück eines KäseKuchens auf einem Teller](web/IMG_1321-thumb.webp)](web/IMG_1321.webp)
 

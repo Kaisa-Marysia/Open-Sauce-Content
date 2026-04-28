@@ -35,7 +35,6 @@ taxonomies:
   categories:
     - Allgemein
     - Vegan-Kochen
-    - Vegetarisch-Kochen
     - Kochen
     - Koch-Rezepte
 ---

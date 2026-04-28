@@ -6,12 +6,7 @@ extra:
 taxonomies:
     categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-vegetarisch
-    - Koch-Rezepte
-    - "Auf-Die-Schnelle-Vegan"
-    - "Auf-Die-Schnelle-Vegetarisch"
-    - "Auf-Die-Schnelle"
+    - Basics
     tags:
       - "erbsen"
       - "hafer"

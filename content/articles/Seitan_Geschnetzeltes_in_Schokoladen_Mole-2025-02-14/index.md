@@ -34,8 +34,6 @@ taxonomies:
   categories:
       - Allgemein
       - Koch-Rezepte
-      - Kochen-Vegetarisch
-      - Kochen-Vegan
 ---
 
 Die Tage hatte ich wieder Lust bekommen, etwas besonderes zu kochen. Weg von meiner Standardkost und etwas zaubern was viele Aromen zu einem Schmaus verwandelt.

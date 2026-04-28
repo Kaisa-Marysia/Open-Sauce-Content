@@ -6,15 +6,14 @@ extra:
 taxonomies:
  categories:
    - Back-Rezepte
-   - Backen-Vegan
-   - Backen-Vegetarisch
    - Allgemein
+   - Kuchen
  tags:
    - "backpulver"
    - "joguhrt"
    - "kakao"
-   - "kaesekuchen"
-   - "kuchen"
+   - "kaeseKuchen"
+   - "Kuchen"
    - "margarine"
    - "mehl"
    - "pflanzenmilch"
@@ -25,9 +24,9 @@ taxonomies:
    - "zucker"
 ---
 
-[![Russischer Zupfkuchen auf einem roten Tisch.](images/IMG_20200907_080241-1024x1024.webp)](images/IMG_20200907_080241-1024x1024.webp)
+[![Russischer ZupfKuchen auf einem roten Tisch.](images/IMG_20200907_080241-1024x1024.webp)](images/IMG_20200907_080241-1024x1024.webp)
 
-Traditionell gibt es bei Feierlichkeiten in unserer Familie Sernik, ein Käsekuchen mit Schokolade. Auch bekannt unter Zupfkuchen. Ich habe nun nach einer Möglichkeit geschaut, den Kuchen mit meiner Lebensmittel-Unverträglichkeit vereinbar zu machen. Während des Oster DiVoc 2020 kam es dann, dass wir in einer Selbstorganisierte Session mit mehreren Personen gemeinsam Kuchen backten. Dabei wurden jeweils leichte Anpassungen gemacht und daraus entstand dann auch dieses Rezept für eine Springform mit 26 Zentimeter Durchmesser.
+Traditionell gibt es bei Feierlichkeiten in unserer Familie Sernik, ein KäseKuchen mit Schokolade. Auch bekannt unter ZupfKuchen. Ich habe nun nach einer Möglichkeit geschaut, den Kuchen mit meiner Lebensmittel-Unverträglichkeit vereinbar zu machen. Während des Oster DiVoc 2020 kam es dann, dass wir in einer Selbstorganisierte Session mit mehreren Personen gemeinsam Kuchen backten. Dabei wurden jeweils leichte Anpassungen gemacht und daraus entstand dann auch dieses Rezept für eine Springform mit 26 Zentimeter Durchmesser.
 
 ## Zutaten
 

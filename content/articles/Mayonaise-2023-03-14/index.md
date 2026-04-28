@@ -13,14 +13,8 @@ taxonomies:
     - Essig
   categories:
     - Allgemein
-    - Vegan
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
-    - Vegetarisch
     - Koch-Rezepte
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
+    - Basics
 ---
 
 Mayonnaise selber zu machen ist sehr einfach und geht auch schnell. Für die Zubereitung wird nur Sojamilch, pflanzliches Öl, Senf, Salz und Essg benötigt.

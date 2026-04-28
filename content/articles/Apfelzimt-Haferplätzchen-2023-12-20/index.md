@@ -15,11 +15,7 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Kuchen
 ---
 
 Als Abwandlung zum Peanutbutter-Oat-Cookie Rezept, kann auch ein Apfel mit Zimt genommen werden. 

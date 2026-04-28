@@ -29,9 +29,7 @@ taxonomies:
     - Möhre
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 draft: false
 ---
 Phở ist eine traditionelle Suppe der vietnamesischen Küche, welch ich mit hiesigen Zutaten angepasst habe.

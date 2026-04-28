@@ -21,9 +21,8 @@ taxonomies:
     - Zwiebel
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
+    - Basics
 ---
 
 Wer selber [Hafermilch](/articles/hafermilch-2022-01-29) macht, kann aus den Resten entweder eine Kochcreme machen oder auch Hack. Auf den ersten Blick kommt das etwas wenig vor, da im Rezept zur [Hafermilch](/articles/hafermilch-2022-01-29) Produktion 100g Hafer erwähnt werden. Jedoch verarbeiten wir die Masse weiter und fügen weitere Zutaten hinzu, wodurch das ganze gestreckt wird.

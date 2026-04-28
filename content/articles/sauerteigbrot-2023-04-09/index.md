@@ -13,8 +13,6 @@ taxonomies:
     - Roggenmehl
   categories:
     - Allgemein
-    - Backen-Vegan
-    - Backen-vegetarisch
     - Back-Rezepte
     - Brot
 ---

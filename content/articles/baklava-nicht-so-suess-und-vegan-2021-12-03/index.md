@@ -7,8 +7,7 @@ taxonomies:
     categories:
       - Allgemein
       - Back-Rezepte
-      - Backen-Vegan
-      - Backen-Vegetarisch
+      - Kuchen
     tags:
       - "backen"
       - "baklava"
@@ -30,7 +29,7 @@ Vor nicht allzu langer Zeit habe ich in meinen Hackspace Blätterteig (Filoteig)
 
 <!-- more -->
 |||
-::|::
+:---:|:---:
 [![Baklava in Auflaufform auf einem Gitter](images/IMG_20211113_135722-1024x768-thumb.webp)](images/IMG_20211113_135722-1024x768.webp)|[![Eine metalische Schale mit Nüssen und eine mit Mehl. Dabei steht ein Einmachglas mit Honigersatz, daneben ein Messbecher und ein Glas. ](images/IMG_20211113_135230-1024x1024-thumb.webp)](images/IMG_20211113_135230-1024x1024.webp)
 
 ## Zutaten
@@ -57,7 +56,7 @@ Zupft danach etwa acht Stücke aus dem Teig heraus und rollt diese hauch dünn a
 Legt die erste Schicht Blätterteig in die Auflaufform und belegt diese mit Nüssen. Nun kommt der Honigersatz darüber. Die Menge kommt auf die gewünschte Süße an. Ich empfehle den Honigersatz mit heißen Wasser etwas zu verflüssigen, sollte dieser sehr Dickflüssig sein. Begießt die Nüsse mit dem Honigersatz. Ich habe lediglich grob über alles mit 1 oder 2 Esslöffeln gegossen.
 
 |||
-::|::
+:---:|:---:
 [![Ausgerollter Teig mit Nüssen belegt und mit Honig bestrichen in einer Auflaufform](images/IMG_20211113_135540-1024x1024-thumb.webp)](images/IMG_20211113_135540-1024x1024.webp)|[![Auflaufform mit mehreren Schichten Teig.](images/IMG_20211113_135621-1024x1024-thumb.webp)](images/IMG_20211113_135621-1024x1024.webp)
 
 Nun folgt die nächste Schicht Blätterteig. Diese wird wieder dünn ausgerollt und eingeölt. Legt den Blätterteig über die Nussschicht und streut eine weitere Schicht Nussmischung darüber. Vergesst nicht, den Honigersatz darüber zu gießen. Das macht ihr, solange bis ihr euch zur letzten Schicht vorangearbeitet hat.
@@ -65,7 +64,7 @@ Nun folgt die nächste Schicht Blätterteig. Diese wird wieder dünn ausgerollt 
 Damit die Pistazien im Ofen nicht beim Backen dunkel werden, warten wir noch mit dem bestreuen. Schiebt die Auflaufform in den Ofen und backt das ganze für 20 Minuten. Sobald der Teig anfängt zu bröselig zu werden und Gold Braun ist, können die Pistazien auf die klebrige Oberfläche streuen. Sollte der Honigersatz sich bereits verfestigt haben, könnte ihr noch klein wenig verdünntes Löwenzahsirup (oder anderes) darüber gießen und danach die Pistazien darüber schütten. Lasst den Baklava im ausgeschalteten Ofen und offener Tür, für ca. 10 Minuten.
 
 |||
-::|::
+:---:|:---:
 [![Baklava mit mit Pistazien in einer Auflaufform](images/IMG_20211113_135811-1024x1024-thumb.webp)](images/IMG_20211113_135811-1024x1024.webp)|[![Aufgeschnittenes Bakalava mit Nüssen und Pistazien](images/IMG_-m8cjmy-thumb.webp)](images/IMG_-m8cjmy.webp)
 
 In meinen Fall waren die Nüsse etwas grober, da ich im Hackspace keine leise Möglichkeit fand, diese zu verkleinern. In meinen Fall habe ich diese in ein Küchentuch eingerollt und mit einem Nudelholz klein gewalzt. Der Blätterteig ist gut geworden, wenn dieser bröselt. Lasst es euch schmecken.

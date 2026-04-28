@@ -12,9 +12,7 @@ taxonomies:
     - Wasser
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
+    - Basics
 draft: false
 ---
 

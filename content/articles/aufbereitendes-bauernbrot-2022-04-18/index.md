@@ -6,9 +6,7 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Backen-Vegan
     - Back-Rezepte
-    - Backen-Vegetarisch
     - Brot
   tags:
     - "backen"

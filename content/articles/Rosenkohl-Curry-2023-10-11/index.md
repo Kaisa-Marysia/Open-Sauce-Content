@@ -8,9 +8,7 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Herbstzeit ist Rosenkohlzeit. Ich habe bis zu diesem Jahr kein Rosenkohl gegessen. Es ist jetzt kein Hype, wie es im sozialen Medien einst propagiert wurde, aber ich wollte etwas ausprobieren.
 <!-- more -->

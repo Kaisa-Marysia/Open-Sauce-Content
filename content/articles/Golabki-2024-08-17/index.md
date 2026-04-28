@@ -29,9 +29,7 @@ taxonomies:
     - Knoblauchgranulat
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Bei Gołąbki [ɡɔˈwɔmpki] handelt es sich um ein traditionelles polnisches Essen, was im deutschen soviel bedeutet wie Täubchen. Dabei handelt es sich um Kohlrouladen mit Reis, in einer Tomatensauce.
 

@@ -37,9 +37,7 @@ taxonomies:
     - Feta
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Letztens wollte ich in meinem Hackspace etwas anderes kochen, aber ein heftiges Unwetter überraschte uns und ich konnte die Zutaten nicht besorgen, also musste ich improvisieren. Daraus entstanden dann die herzhaften Pestoschnecken.
 

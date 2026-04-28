@@ -20,8 +20,6 @@ taxonomies:
     - Fenchel
   categories:
     - Allgemein
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Back-Rezepte
     - Brot
 ---

@@ -19,8 +19,6 @@ taxonomies:
     - Wasser
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
 ---
 Während das Rezept der ukrainische [Vareniki](#) sehr herzhaft ist, will ich mit dem Rezept für die Pierogi eine sommerliche süße Speise präsentieren. Aus dem Rezept bekommt man etwa 25 Pierogi.

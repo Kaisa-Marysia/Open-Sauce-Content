@@ -19,12 +19,8 @@ taxonomies:
     - Zucker
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
+    - Auf-die-Schnelle
 ---
 Da ich schon mal das Rezept für das Hafer-Hack niedergeschrieben habe, kann ich auch jenes für die Pide verewigen. Worum geht es? Pide ist ein Hefeteig gefüllt mit Hack. In meinen Fall zusätzlich mit Käse überbacken und mit Paprikasorten ausgebessert.
 

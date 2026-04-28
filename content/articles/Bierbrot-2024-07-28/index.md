@@ -22,12 +22,7 @@ taxonomies:
   categories:
     - Allgemein
     - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Brot
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
 ---
 Neulich war ich mit einer Gruppe unterwegs und beim gemeinsamen Grillen ist es passiert, dass mein veganes Tiefkühlbaguette mit der auslaufenden nicht-veganen Butter kontaminiert wurde. Da aber im Haus alles vorhanden war, um schnell ein herzhaftes Brot zu backen, wurde ich erfinderisch.
 

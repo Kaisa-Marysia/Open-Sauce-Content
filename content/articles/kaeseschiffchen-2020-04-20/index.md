@@ -1,21 +1,17 @@
 ---
-title: "Käseschiffchen"
+title: "Keesschiffchen"
 date: "2020-04-20"
 extra:
  image: images/IMG_20200420_183552-768x1024.webp
 taxonomies:
  categories:
    - "allgemein"
-   - "auf-die-schnelle"
-   - "auf-die-schnelle-vegetarisch"
+   - "Auf-die-Schnelle"
    - "backen"
-   - "backen-vegetarisch"
    - "kochen"
-   - "kochen-vegetarisch"
  tags:
-   - "kaese"
+   - "Reibegenuss"
    - "pizza"
-   - "vegetarisch"
 ---
 
 [![Fladen mit einer dickenflüssigen Käsesoße, Aufschnitt und RÖstzwiebel](images/IMG_20200420_183552-768x1024.webp)](images/IMG_20200420_183552-768x1024.webp)
@@ -33,7 +29,7 @@ Prise Salz
 2 EL Oliven Öl  
 
 ## Zutaten Füllung:
-90 Gramm Käse  
+90 Gramm Reibekäse
 100 ML Pflanzenmilch  
 1 TL Paprikapulver  
 2 TL Oregano  
@@ -42,7 +38,7 @@ Prise Salz
 
 ## Zutaten Belag:
 1 EL Tomatenmark  
-1 Scheibe vegetarischen Aufschnitt  
+1 Scheibe veganen Aufschnitt  
 Röstzwiebel
 
 [![Roher Teig bei dem die Ränder zusammengerollt wurden](images/IMG_20200420_181346_20200420193950583-1024x1024.webp)](images/IMG_20200420_181346_20200420193950583-1024x1024.webp)
@@ -53,7 +49,7 @@ Während der Ofen sich vorbereitet, vermischt alle trockenen Zutaten für den Te
 Weiter geht es mit der Füllung. Alle Zutaten mit einem Stabmixer, in einem hohen Behältnis (z.B. Messbecher), zu einer dickflüssigen Soße vermischen.
 
 |||
-::|::
+:---:|:---:
 [![Milch mit veganen Streukäse, Kräutern und weiteren Zutaten in einem hohen Behältnis](images/IMG_20200420_181606-1024x1024-thumb.webp)](images/IMG_20200420_181606-1024x1024.webp)|[![Der rohe Teig wurde mit Kräutern und veganen Käse befültt, sowie mit Aufschnitt und Röstzwiebel belegt](images/IMG_20200420_182126-1024x683-thumb.webp)](images/IMG_20200420_182126-1024x683.webp)
 
 

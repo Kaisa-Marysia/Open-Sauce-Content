@@ -22,15 +22,7 @@ taxonomies:
     - Pfeffer
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Basics
 draft: false
 ---
 Immer wenn ich Hafermilch mache, bleiben immer die ausgepressten Haferflocken übrig. Normalerweise mache ich daraus ja Bratlinge, aber da ich keinen Bedarf hatte, wurde dieses Mal daraus Wurst, die ich als Aufschnitt benutzen kann.

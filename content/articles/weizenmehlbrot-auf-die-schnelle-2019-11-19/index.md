@@ -5,13 +5,11 @@ extra:
     image: images/IMG_20191119_064526.webp
 taxonomies:
     categories:
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Allgemein
     - Back-Rezepte
     - Brot
+    - Auf-die-Schnelle
     tags:
-      - "auf-die-schnelle"
       - "brot"
       - "hefe"
       - "mehl"

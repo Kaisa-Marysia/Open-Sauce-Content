@@ -19,8 +19,6 @@ taxonomies:
   categories:
     - Allgemein
     - Koch-Rezepte
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
 ---
 Bei Koptyka handelt es sich um traditionelle polnische Klöße. Hergestellt werden sie aus einer Mischung aus gekochten Kartoffeln und Mehl. Koptyka kann herzhaft als Hauptgang zubereitet werden oder auch als Süßspeise mit Zucker und Zimt. Die Zubereitung der Koptyka ist sehr einfach.
 <!-- more -->
@@ -33,7 +31,7 @@ Bei Koptyka handelt es sich um traditionelle polnische Klöße. Hergestellt werd
 * 400 Gram Kartoffel
 * 25ml Wasser
 * Öl zum Anbraten
-* Hack (zum Beispiel [Haferhack](articles/hafer-hack-2022-09-12/))
+* Hack (zum Beispiel [Haferhack](/articles/hafer-hack-2022-09-12/))
 * Zwiebel
 * Schmand oder vegane Creme mit Öl und Apfelessig
 * Basilikum Blätter (Optional)
@@ -46,7 +44,7 @@ Schält die Kartoffel und legt diese in kochendes Wasser, bis diese Durch sind. 
 
 Sobald die Klöße im kochenden Wasser oben schwimmen, sind diese fertig und können vorsichtig herausgefischt und in ein Sieb gelegt werden, damit diese abtropfen können.
 
-Nun kann die auch die Beigabe für die Koptyka vorbereitet werden. Hierzu habe ich [Haferhack](articles/hafer-hack-2022-09-12/) genutzt, weshalb auch grüne Erbsen auf dem Bild zu sehen sind. Dieses habe ich in einer Pfanne mit Zwiebeln angebraten und gewürzt. Parallel hierzu wurden die Koptyka in heißen Öl angebraten. Als Soße nutzte ich vegane Creme, zum Beispiel jene von DrOetker. Hinzu gab ich etwas Olivenöl und Apfelessig, sowie Wasser und Kräuter.
+Nun kann die auch die Beigabe für die Koptyka vorbereitet werden. Hierzu habe ich [Haferhack](/articles/hafer-hack-2022-09-12/) genutzt, weshalb auch grüne Erbsen auf dem Bild zu sehen sind. Dieses habe ich in einer Pfanne mit Zwiebeln angebraten und gewürzt. Parallel hierzu wurden die Koptyka in heißen Öl angebraten. Als Soße nutzte ich vegane Creme, zum Beispiel jene von DrOetker. Hinzu gab ich etwas Olivenöl und Apfelessig, sowie Wasser und Kräuter.
 
 [![Knödel welche in einer Pfanne angebraten werden](web/1024-1024.webp)](web/1024-1024.webp)
 

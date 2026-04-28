@@ -6,8 +6,6 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
   tags:
     - Kartoffel

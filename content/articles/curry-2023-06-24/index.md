@@ -29,8 +29,6 @@ taxonomies:
     - Lorbeeren blätter
   categories:
     - Allgemein
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
     - Koch-Rezepte
 ---
 

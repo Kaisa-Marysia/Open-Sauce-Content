@@ -14,12 +14,7 @@ taxonomies:
     - Tomaten
   categories:
     - Allgemein
-    - Auf-Die-Schnelle
-    - Auf-Die-Schnelle-Vegan
-    - Auf-Die-Schnelle-Vegetarisch
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
-    - Koch-Rezepte
+    - Basics
 ---
 Dieser Paprika Brotaufstrich hat es mir ziemlich angetan, besonders in Kombination mit einem frisch gebackenen Brot. Die Zubereitung ist sehr einfach und ist schnell gemacht.
 

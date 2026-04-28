@@ -6,9 +6,8 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Backen-Vegan
     - Back-Rezepte
-    - Backen-Vegetarisch
+    - Brot
   tags:
     - Mehl
     - Trockenhefe
@@ -48,6 +47,6 @@ Die Brötchen für ca. 20 bis 30 Minuten in den Ofen schieben. Fertig sind die B
 Wenn ihr die Brötchen groß genung formt, passt mehr Belag darauf. Lasst es euch schmecken.
 
 |||||
-::|::|::|::
+:---:|:---:|:---:|:---:
 [![Fertig gebackenes Brötchen](images/IMG_20181013_184318.webp)](images/IMG_20181013_184318.webp)|[![Ein Brötchen auf einen Teller. Im Hintergrund sind Bratlinge und Schalen mit Gemüse](images/IMG_20181013_184921.webp)](images/IMG_20181013_184921.webp)|
 [![Brötchen mit Schalen mit Gemüse und ein Teller mit Bratlinge](images/IMG_20181013_184939.webp)](images/IMG_20181013_184939.webp)|[![Belegter Burger](images/IMG_20181013_184508.webp)](images/IMG_20181013_184508.webp)

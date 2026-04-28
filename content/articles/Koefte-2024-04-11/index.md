@@ -31,9 +31,7 @@ taxonomies:
     - Champignons
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Aktuell bin ich auf den Geschmack von Köfte mit gebratenen Gemüse gekommen. Besonders, weil es nicht schwer zum Zubereiten ist und das Gemüse und die Köfte parallel bearbeitet werden können.
 <!-- more -->

@@ -16,12 +16,8 @@ taxonomies:
     - Brühe
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
-    - auf-die-schnelle
-    - auf-die-schnelle-vegetarisch
-    - auf-die-schnelle-vegan
+    - Auf-die-Schnelle
 ---
 Vor nicht allzu langer Zeit habe ich ein Rezept für polnische [Sauer-Eingelegten-Gurken(Ogórki Kiszony)](/articles/ogorki-kiszony-2023-09-07/) aufgeschrieben. Was macht eins aber mit dem Gurkenwasser? 
 Schon einmal Gurkensuppe probiert?

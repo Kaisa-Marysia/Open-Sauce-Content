@@ -8,9 +8,7 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 
 Um die Triologie der Rezepte mit Rosenkohl abzuschließen, gibt es noch ein Rezept für einen Kartoffel-Aulauf mit Hack.

@@ -8,9 +8,7 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Wir gehen mittlerweile auf den Winter zu und die Speisen wandeln sich zu heißen Suppen und Eintöpfen. Der Vorteil davon ist, dass größere Mengen produziert werden können und eins davon länger etwas hat.
 Dieses Rezept kann nach Belieben variiert und verändert werden, da ihr nicht auf die Gemüsesorten festgesetzt seid.

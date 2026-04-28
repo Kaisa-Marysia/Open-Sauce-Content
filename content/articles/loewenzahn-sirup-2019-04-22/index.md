@@ -6,8 +6,6 @@ extra:
 taxonomies:
     categories:
     - Allgemein
-    - Kochen-Vegetarisch
-    - Kochen-Vegan
     - Koch-Rezepte
     tags:
     - "honig"
@@ -40,7 +38,7 @@ Nach diesen Zwei Stunden bringt ihr das Wasser zum Kochen. Sobald das Wasser koc
 Siebt den Löwenzahn aus dem Wasser, gebt den Zucker hinzu und reibt die Schalle der Zitrone in die Flüssigkeit, presst danach den Saft der Zitrone aus und bringt das Wasser wieder zum Kochen und verrührt dabei die Zutaten. Sobald das Wasser kocht stellt ihr auf eine kleine Flamme um, so dass der Sirup die nächsten ca. Sechs Stunden sanft vor sich her köchelt. Rührt gelegentlich die Flüssigkeit um. Ihr könnt prüfen ob der Sirup fertig ist, wenn ihr etwas aus dem Topf auf einen Teller abkühlen lässt und dieser dann zwischen den Fingern Fäden zieht. Falls dieser noch sehr hell oder flüssig sein sollte, einfach weiter köcheln lassen. 
 
 |||
-::|::
+:---:|:---:
 [![Bräunliches Waser mit Zucker, welcher den Löwenzahn zog in einem Topf](images/IMG_20190422_125859-1024x1024.webp)](images//IMG_20190422_125859-1024x1024.webp)| [![Mehrere Töpfe mit flüssigen Löwenzahnsirup](images/IMG_20190422_125946-1024x732.webp)](images//IMG_20190422_125946-1024x732.webp)
 
 

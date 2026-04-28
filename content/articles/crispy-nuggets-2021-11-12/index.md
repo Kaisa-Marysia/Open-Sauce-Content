@@ -6,7 +6,6 @@ extra:
 taxonomies:
     categories:
       - Allgemein
-      - Kochen-Vegetarisch
       - Koch-Rezepte
     tags:
       - "haferflocken"
@@ -65,14 +64,14 @@ Während die Nuggets ihr Dampfbad genießen, können wir die Marinade vorbereite
 Nachdem die Nuggets fertig gedämpft wurden, können diese in die Marinade für mindestens 15 Minuten eingelegt werden. Der Geschmack wird intensiver je länger diese dringe liege. In der Zeit kann für die Panade, wie bereits oben beschrieben, Mehl mit Stärke und Wasser vermischt werden, sodass ein dickflüssiges Gemisch entsteht. Darin können die Nuggets gedippt und im Paniermehl gewälzt werden. Diese Arbeit ist etwas kniffelig.
 
 |||
-::|::
+:---:|:---:
 [![Schale mit Marinierten Seitan Nuggets, ein Teller mit Paniermehl und ein Teller mit Eiersatz.](images/IMG_20211112_093322-1024x1024-thumb.webp)](images/IMG_20211112_093322-1024x1024.webp)|[![Seitan Nuggets mit einer Panade aus Paniermehl und Haferflocken auf einem Teller](images/IMG_20211112_093440-1024x1024-thumb.webp)](images/IMG_20211112_093440-1024x1024.webp)
 
 
 Sobald die Nuggets paniert wurden, könnt ihr diese in einer Pfanne mit heißem Öl braten oder frittieren.
 
 |||
-::|::
+:---:|:---:
 [![Nuggets die in Öl auf einer Pfanne angebraten werden](images/IMG_20211112_093537-1024x1024-thumb.webp)](images/IMG_20211112_093537-1024x1024.webp)|[![Fertige Nuggets mit Kartoffelecken auf einem Teller](images/IMG_20211112_093649-1024x1024-thumb.webp)](images/IMG_20211112_093649-1024x1024.webp)
 
 Zu den Nuggets habe ich parallel Kartoffelecken gemacht. Fast Food ist auf jeden Fall was anderes. Aber der Aufwand hat sich jedenfalls gelohnt.  

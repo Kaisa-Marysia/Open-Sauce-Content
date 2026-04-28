@@ -7,8 +7,7 @@ taxonomies:
     categories:
         - Allgemein
         - Back-Rezepte
-        - Backen-Vegan
-        - Backen-Vegetarisch
+        - Kuchen
     tags:
         - Mehl
         - Kakao
@@ -42,8 +41,6 @@ Für die Zubereitung vermischt man alle trockenen Zutaten und gibt nun das Sonne
 [![Einmachglas mit Schokoteig](images/IMG_20181104_180805.webp)](images/IMG_20181104_180805.webp)
 
 Den Kleks Nuss-Nougat Creme überdeckt man nun wieder mit ein bisschen Teig. Das ganze wird dann mit den gehackten Nüssen, sowie mit Schokostreusel oder Splitter bedeckt und in einen Ofen, welcher auf 220 Grad mit Ober und Unterhitze vorgeheizt, geschoben. Denkt daran das Gummi vom Glas vorher ab zu machen.
-
-[![Einmachglas mit Teig sowie mit Nüssen und Schokostreusel](images/IMG_20181104_180757.webp)](images/IMG_20181104_180757.webp)
 
 Nach ca. 25 bis 30 Minuten sollten die Küchlein fertig sein. Das Blech mit den Gläsern aus dem Ofen ziehen und abkühlen lassen. Stäbchenprobe nicht vergessen.
 

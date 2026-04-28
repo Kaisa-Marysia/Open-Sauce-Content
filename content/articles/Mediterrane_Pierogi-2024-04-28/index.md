@@ -24,9 +24,7 @@ taxonomies:
     - Mehl
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 ---
 Polnische Pierogi lassen sich zwar recht simpel veganisieren, aber das wäre etwas zu einfach. Ich habe diese ebenso mit der, von uns bezeichneten, mediterraner Küche gekreuzt und was soll ich sagen, ich bin davon sehr begeistert.
 <!-- more -->

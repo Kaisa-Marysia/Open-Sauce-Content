@@ -5,10 +5,9 @@ extra:
     image: images/IMG_20191030_170854.webp
 taxonomies:
     categories:
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Back-Rezepte
     - Allgemein
+    - Kuchen
     tags:
       - "doppelkeks"
       - "halloween"
@@ -29,18 +28,18 @@ Hier treffen zwei Rezepte aufeinander. Einmal für den Keksteig:
 - 80g Zucker
 - Gehackte Nüsse nach Bedarf
 - Kakao nach Bedarf.
-- 3 EL Milch(ersatz)
+- 3 EL Hafermilch
 
 Alles wird zu einem großen Klumpen verknetet. Danach wickelt man den Teig in Frischhaltefolie ein und stellt diesen für eine Stunde in den Kühlschrank. Währenddessen kann man die Füllung vorbereiten.
 
-Dabei greifen wir auf dieses [Pudding Rezept](images/30/pudding-mischung/) zurück und ersetzen Kakao durch Vanillearoma oder benutzt gleich Soja Milch mit Vanillegeschmack.
+Dabei greifen wir auf dieses [Pudding Rezept](/articles/pudding-mischung-2019-10-30/) zurück und ersetzen Kakao durch Vanillearoma oder benutzt gleich Soja Milch mit Vanillegeschmack.
 
 - 50g Speisestärke
 - 20g Zucker
 - Vanillearoma
 - 0,3L Vanille Milch
 
-Die Speisestärke wird mit dem Zucker vermischt, während die Milch erhitzt wird. Das Vanillearoma, kann man zur kochenden Milch hinzugeben. Sobald die Milch erhitzt wurde, kann man die Speisestärke mit dem Zucker hinzugeben und rühren, bis man eine ordentliche Masse erhält.  
+Die Speisestärke wird mit dem Zucker vermischt, während die Hafermilch erhitzt wird. Das Vanillearoma, kann man zur kochenden Hafermilch hinzugeben. Sobald die Hafermilch erhitzt wurde, kann man die Speisestärke mit dem Zucker hinzugeben und rühren, bis man eine ordentliche Masse erhält.  
 Sobald der Pudding fertig ist, kann man den zur Seite stellen und abkühlen lassen.
 
 Nun kann der Teig aus dem Kühlschrank herausgenommen und ausgerollt werden. Als Ausstechform kann alles genommen werden, was rund ist. Ich habe in ein Pinnchen 'für genommen.  

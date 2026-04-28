@@ -8,9 +8,7 @@ taxonomies:
     - Rezept
   categories:
     - Allgemein
-    - Kochen-Vegan
     - Koch-Rezepte
-    - Kochen-Vegetarisch
 draft: true
 ---
 Einer der tradionellen Gerichte zu einem feierlichen Anlass war die Gänsekeule mit [Rotkohl](/articles/rotkohl-2026-04-21/) und schlesische Knödel gewesen. Ich vermisse zwar dies nicht, empfand es aber interessant in Vegan nach zu kochen.

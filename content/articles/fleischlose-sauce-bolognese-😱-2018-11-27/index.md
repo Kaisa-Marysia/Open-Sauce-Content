@@ -5,8 +5,6 @@ extra:
     image: images/IMG_20181113_171833-1024x1024.webp
 taxonomies:
     categories:
-        - Kochen-Vegan
-        - Kochen-Vegetarisch
         - koch-rezepte
         - Allgemein
     tags:
@@ -55,7 +53,7 @@ Währen dessen kann man sich um die Soße kümmern, schaut aber nach der Soja, d
 Mais und die Rote Bohnen (wenn aus der Dose) abtropfen lassen und  mit allen Zutaten in ein Behälter geben. Diese dann mit einen Stabmixer oder ähnlichen zerkleinern bis man kaum noch Stückchen hat.
 
 |||
-::|::
+:---:|:---:
 [![Mais, Bohnen, Tomaten in einem Messbecher](images/IMG_20181114_075446-300x300.webp)](images/IMG_20181114_075446.webp)|[![Mais, Bohnen, Tomaten im Messbecher, nachdem diese vom Mixer püriert wurden](images/IMG_20181114_075338-300x300.webp)](images/IMG_20181114_075338.webp)
 
 Währenddessen sollte auch die Soja fertig sein, nun muss man das ganze abtropfen lassen. Ich habe hierfür die Soja Stücke auf ein Zewa gekippt und ewas ausgedrückt. Während ich nun die Soja stehen lies, habe ich die Spitzpaprika und eine Zwiebel klein gehackt und in einer Pfanne mit etwas Öl angebraten.

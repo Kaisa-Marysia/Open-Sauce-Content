@@ -15,11 +15,8 @@ taxonomies:
     - Brot
   categories:
     - Allgemein
-    - Backen-Vegan
     - Back-Rezepte
     - Brot
-    - Vegan
-    - Vegetarisch
 ---
 Solltet einmal kein Brot zu Hause vorhanden sein und es muss mal einfach gehen, kann auf ein Weißbrot gebacken werden.
 Es werden nicht viele Zutaten benötigt und ist in etwa zwei Stunden fertig gebacken.

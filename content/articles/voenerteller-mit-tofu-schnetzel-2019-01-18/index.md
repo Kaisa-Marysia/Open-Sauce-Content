@@ -7,8 +7,6 @@ taxonomies:
     categories:
       - Allgemein
       - Koch-Rezepte
-      - Kochen-Vegan
-      - Kochen-Vegetarisch
     tags:
       - "tofu"
       - "vegan"
@@ -42,7 +40,7 @@ Tofu habe ich eigentlich sehr negativ in Erfahrung. Damals aß ich es zum ersten
 Schneidet den Tofu in kleine Scheibchen einer Dicke von circa 0,5cm. Vermischt die Gewürze mit Sonnenblumenöl und optional mit Tomatenmark. Kippt den Tofu hinzu und verrührt es, damit auch jede Seite was von der Marinade einsaugt. Nun könnt ihr es ziehen lassen.
 
 |||
-::|::
+:---:|:---:
 [![Gewürze in einer Schale](images/IMG_20190114_072935-1024x1024-thumb.webp)](images/IMG_20190114_072935-1024x1024.webp)|[![Tofugeschnetzeltes in Marinade](images/IMG_20190114_072911-1024x1024-thumb.webp)](images/IMG_20190114_072911-1024x1024.webp)
 
 Weiter geht es mit dem Dressing für den Salat. Ich benutze gerne kleine Einmach- oder verschließbare Senfgläser für die Zubereitung. Solch ein Senfglas befüllte ich zur Hälfte mit ungesüßten Sojajoghurt und kippte etwas Öl und Essig hinzu. Zusätzlich bedeckte ich den Sojajoghurt mit Kräutern der Provinz, einer Prise Salz und etwas Pfeffer. Das Glas verschließen und dann ordentlich schütteln.
@@ -52,5 +50,5 @@ Nun kann man sich um den Reis und Salat kümmern. Diesen nach Angaben der Verpac
 Für das nächste Mal werde ich das Brot selber backen.
 
 |||
-::|::
+:---:|:---:
 [![Salat mit Tofu Tofugeschnetzelten auf einem Teller](images/IMG_20190114_203308-1024x1024-thumb.webp)](images/IMG_20190114_203308-1024x1024.webp)|[![Nahaufname vom Tofugeschnetzelten auf Salat](images/IMG_20190114_203410-1024x1024-thumb.webp)](images/IMG_20190114_203410-1024x1024.webp)

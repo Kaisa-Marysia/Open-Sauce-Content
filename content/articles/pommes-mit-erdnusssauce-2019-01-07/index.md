@@ -7,8 +7,6 @@ taxonomies:
     categories:
       - Allgemein
       - Koch-Rezepte
-      - Kochen-vegan
-      - Kochen-Vegetarisch
     tags:
         - Kartoffel
         - Öl

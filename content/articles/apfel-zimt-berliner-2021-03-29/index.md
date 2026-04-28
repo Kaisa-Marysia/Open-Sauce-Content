@@ -6,9 +6,8 @@ extra:
 taxonomies:
     categories:
       - Allgemein
-      - Backen-Vegan
-      - Backen-Vegetarisch
       - Back-Rezepte
+      - Kuchen
     tags:
       - "apfel"
       - "berliner"
@@ -37,7 +36,7 @@ Für den Teig:
 - Öl zum fritieren
 
 ||||
-::|::|::
+:---:|:---:|:---:
 [![Apfelwürfel mit Zimt in einer Schale](images/wp-1616974068274-1024x1024.webp)](images/wp-1616974068274-1024x1024.webp)|[![Apfelwürfel mit Zimt auf einem Teigfladen](images/wp-1616974068362-1024x1024.webp)](images/wp-1616974068362-1024x1024.webp)|[![Teigfladen mit Apfelwürfel wird in einer Pfanne fritiert](images/wp-1616974068422-1024x1024.webp)](images/wp-1616974068422-1024x1024.webp)
 
 

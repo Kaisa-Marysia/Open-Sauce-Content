@@ -17,9 +17,8 @@ taxonomies:
     - Rohrzucker
   categories:
     - Allgemein
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Back-Rezepte
+    - Kuchen
 
 ---
 [![Ein blauer Teller mit einer Waffel auf welcher sich Honig befindet](web/index-thumb.webp)](web/index.webp)

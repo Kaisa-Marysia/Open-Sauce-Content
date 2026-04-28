@@ -6,12 +6,7 @@ extra:
 taxonomies:
   categories:
     - Allgemein
-    - Back-Rezepte
-    - Backen-Vegan
-    - Backen-Vegetarisch
     - Koch-Rezepte
-    - Kochen-Vegan
-    - Kochen-Vegetarisch
   tags:
     - "basilikum"
     - "knoblauch"
@@ -23,7 +18,6 @@ taxonomies:
     - "thymian"
     - "tomatenmark"
     - "vegan"
-    - "vegetarisch"
     - "wasser"
     - "zucker"
 ---
