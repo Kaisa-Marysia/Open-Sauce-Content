@@ -15,7 +15,6 @@ taxonomies:
     - Salz
   categories:
     - Allgemein
-    - Koch-Rezepte
     - Basics
 draft: false
 ---
