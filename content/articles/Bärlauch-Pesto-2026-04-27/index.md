@@ -16,7 +16,7 @@ taxonomies:
     - Basics
 draft: false
 ---
-Zu Kartoffeln, Nudeln oder als brotaufstrich, ein Pesto aus Bärlauch ist sehr schmackhaft und einfach zubereitet.
+Zu Kartoffeln, Nudeln oder als Brotaufstrich, ein Pesto aus Bärlauch ist sehr schmackhaft und einfach zubereitet.
 
 <!-- more -->
 
@@ -31,7 +31,7 @@ Zu Kartoffeln, Nudeln oder als brotaufstrich, ein Pesto aus Bärlauch ist sehr s
 [![Sonnenblumenkerne in einer Pfanne, welch geröstet werden](web/IMG_20260422_174523_HDR~2-thumb.webp)](web/IMG_20260422_174523_HDR~2.webp)
 
 Die Bärlauchblätter werden ordentlich gewaschen und mit einem Küchentuch trocken getupft.
-Die Sonnenbklumenkerne werden mit etwas Pfeffer aus der Mühle in einer Pfanne ohne Öl geröstet. 
+Die Sonnenblumenkerne werden mit etwas Pfeffer aus der Mühle in einer Pfanne ohne Öl geröstet. 
 Wir reiben die Bärlauchblätter (alternativ klein gehackt) und geben dann alle Zutaten in einen Behälter, um diese zu einer Masse pürieren.
 Schon ist das Pesto fertig.
 
@@ -40,5 +40,3 @@ Wer möchte, kann dieses erweitern, mit Knoblauch oder veganen Feta.
 ||||
 :----:|:----:|:----:
 [![Schraubglas mit grünen Bärlauchpesto](web/IMG_20260422_181629~2-thumb.webp)](web/IMG_20260422_181629~2.webp)|[![Schraubglas mit grünen Bärlauchpesto](web/IMG_20260422_185248~2-thumb.webp)](web/IMG_20260422_185248~2.webp)|[![Schraubglas mit grünen Bärlauchpesto](web/IMG_20260422_195247~2-thumb.webp)](web/IMG_20260422_195247~2.webp)
-
-
