@@ -17,7 +17,6 @@ taxonomies:
     - Zwiebel
   categories:
     - Allgemein
-    - Koch-Rezepte
     - Basics
 draft: false
 ---
