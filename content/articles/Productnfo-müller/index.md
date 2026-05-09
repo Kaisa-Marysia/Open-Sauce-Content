@@ -1,8 +1,15 @@
 ---
-title: Produkt Info
-path: productnfo
-template: about.html
+title: Müller
+date: 2026-05-09
+extra:
+  image: web/Productnfo.webp
+taxonomies:
+  tags:
+    - Productnfo
+  categories:
 ---
+
+[![](web/Productnfo-thumb.webp)](web/Productnfo.webp)
 
 Nichts kann eins mehr gut finden, weil andauernd Kapitalisten, Ausbeuter, Rechtsextreme und deren Sympathisanten alles kaufen, übernehmen und kaputt machen müssen. Deshalb können wir nichts Schönes haben.
 
@@ -42,11 +49,18 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Weinstephan](https://www.muellergroup.com/karriere/unsere-marken/weihenstephan)
 * [T.M.A Handelsgesellschaft mbH aus Leppersdorf](https://www.tma-milk.com/) Referenzieren auf:
   * Aldi Nord
+    * Milsani
   * Aldi Süd
+  * Edeka
+    * Gut und Günstig (Buttermilch)
   * Norma
   * Kaufland 
+    * K Classic (Sahne-Milchreis)
+  * Lidl
+    * Milbona
   * Penny
   * Netto 
+    * Gutes Land
   * Rewe
 * Voss Feinkost und Lebensmittel GmbH. Referenzieren auf:
   * Almare Seafood
