@@ -30,6 +30,8 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 ## Lebensmittel
 * [Heinrich Hamker Lebensmittelwerke](https://www.homann.de/)
 * [Homann Feinkost](https://www.homann.de)
+* [Harzbube](https://www.harzbube.de/)
+* Pragolaktos (Tschechien und Slowakai)
 * [Käserei Loose GmbH & Co. KG](https://www.kaeserei-loose.de/)
 * [Landliebe Molkereiprodukte GmbH](https://www.landliebe.de/)
 * [Lisner Holding sp. z o.o.](https://www.lisner.pl/) Polen
@@ -37,6 +39,7 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Nadler Feinkost GmbH](https://www.nadler.de/)
 * [Plantopia GmbH](https://openregister.de/company/DE-HRB-D2102-37627) 
 * [Sachsenmilch Leppersdorf GmbH](https://www.sachsenmilch.de/)
+* [Weinstephan](https://www.muellergroup.com/karriere/unsere-marken/weihenstephan)
 * [T.M.A Handelsgesellschaft mbH aus Leppersdorf](https://www.tma-milk.com/) Referenzieren auf:
   * Aldi Nord
   * Aldi Süd
