@@ -72,6 +72,7 @@ links = [
   {title = 'About', url = '/about'},
   {title = 'Impressum', url = '/Impressum'},
   {title = 'Tags', url = '/tags'},
+  {title = 'Produkt Info', url = '/productnfo'},
 ]
 
 ## Empty Navigation
