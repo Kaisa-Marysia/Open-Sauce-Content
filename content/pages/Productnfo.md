@@ -67,7 +67,11 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [WSF Fischfeinkost GmbH](https://www.wsf-fischfeinkost.de/)
 * [Berief GmbH](https://www.berief-food.de/)
 * Soja Food GmbH. Referenzen auf:
-  * Rewe (Eigenmarken Joghurt)
+  * REWE
+    * REWE Bio + Vegan, Reis Drink Natur
+    * REWE Bio Pflanzlich, Hafer Drink mit deutschen Bio-Hafer
+    * REWE Bio Pflanzlich, Soja Drink mit Bio-Soja aus der EU
+    * REWE Bio + Vegan, Soja (Joghurt) Natur auf Basis von Bio-Soja
   * Aldi (Eigenmarken)
   * Lidl (Eigenmarken)
   * Kaufland (K-Classic Tofu)
@@ -80,3 +84,21 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * Gut und Günstig (Edeka)
 * Ja! (Rewe)
 * Hofburger (Aldi)
+
+# Folgende Eigenmarken sind nicht von Müller
+* REWE
+  * REWE Bio Pflanzlich Kokos (Joghurt) Natur 
+    * Elsdorfer Molkerei und Feinkost GmbH
+  * REWE Pflanzlich Soja (Joghurt) Vanille Geschmeck
+    * Elsdorfer Molkerei und Feinkost GmbH
+  * Rewe Pflanzlich Soja Natur
+    * Elsdorfer Molkerei und Feinkost GmbH
+  * REWE Bio +Vegan Hafercreme Cuisine
+    * MONA Naturprouke GmbH
+  * REWE Bio +Vegan Sojacreme Cusine
+    * MONA Naturprouke GmbH
+  * REWE Bio +Vegan No Muhh Drink
+    * MONA Naturprouke GmbH
+  * REWE Pflanzlich Barista Hafer Zero ohne Zucker
+    * MONA Naturprouke GmbH
+
