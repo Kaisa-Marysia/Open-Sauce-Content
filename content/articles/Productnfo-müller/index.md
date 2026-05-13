@@ -35,6 +35,9 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Optipack GmbH](https://www.optipack.de/) Verpackung 
 
 ## Lebensmittel
+* [Molkerei Alois Müller](https://www.muellergroup.com/)
+  * Edeka
+    * Joghurt
 * [Heinrich Hamker Lebensmittelwerke](https://www.homann.de/)
 * [Homann Feinkost](https://www.homann.de)
 * [Harzbube](https://www.harzbube.de/)
@@ -48,6 +51,8 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Sachsenmilch Leppersdorf GmbH](https://www.sachsenmilch.de/)
   * Lidl
     * Milbona - Gouda
+  * Edeka
+    * Gut und Günstig - Käseaufschnitt
 * [Weinstephan](https://www.muellergroup.com/karriere/unsere-marken/weihenstephan)
 * [T.M.A Handelsgesellschaft mbH aus Leppersdorf](https://www.tma-milk.com/) Referenzieren auf:
   * Aldi Nord
