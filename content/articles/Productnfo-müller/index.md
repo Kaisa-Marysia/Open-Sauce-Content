@@ -46,6 +46,8 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Nadler Feinkost GmbH](https://www.nadler.de/)
 * [Plantopia GmbH](https://openregister.de/company/DE-HRB-D2102-37627) 
 * [Sachsenmilch Leppersdorf GmbH](https://www.sachsenmilch.de/)
+  * Lidl
+    * Milbona - Gouda
 * [Weinstephan](https://www.muellergroup.com/karriere/unsere-marken/weihenstephan)
 * [T.M.A Handelsgesellschaft mbH aus Leppersdorf](https://www.tma-milk.com/) Referenzieren auf:
   * Aldi Nord
@@ -57,7 +59,8 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
   * Kaufland 
     * K Classic (Sahne-Milchreis)
   * Lidl
-    * Milbona
+    * Milbona - Joghurts
+    * Milbona - Buttermilch
   * Penny
   * Netto 
     * Gutes Land
@@ -90,12 +93,10 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
     * REWE Bio Pflanzlich, Soja Drink mit Bio-Soja aus der EU
     * REWE Bio + Vegan, Soja (Joghurt) Natur auf Basis von Bio-Soja
   * Aldi (Eigenmarken)
-  * Lidl (Eigenmarken)
   * Kaufland (K-Classic Tofu)
   * dm (dmBio)
   * Rossmann (EnerBio)
 * [Bönsel](https://www.boensel-kochkaese.de/)
-* Milbona Lidl
 * [Nordsee](https://www.nordsee.com/de/)
 * Almhof 
 * Gut und Günstig (Edeka)
@@ -119,3 +120,31 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
   * REWE Pflanzlich Barista Hafer Zero ohne Zucker
     * MONA Naturprouke GmbH
 
+* Lidl
+  * Vermondo Chili Sin Carne
+    * SGS Geniesser Service GmbH & Co. KG
+  * Vermondo Spätzle
+    * Bürger GmbH & Co. KG
+  * Vermondo Falafel
+    * Fine-Food-Kontor GmbH
+  * Vermondo High Protein Sojadrink
+    * [Frías nutrición, España](https://frias.es/)
+  * Vermondo High Protein Schokodrink
+    * [Frías nutrición, España](https://frias.es/)
+  * Vermondo Haferdrink 3.5%
+    * [Grønvang Food ApS, Denmark](https://gronvang.dk/)
+  * Vermono Barista Haferdrink 
+    * [Grønvang Food ApS, Denmark](https://gronvang.dk/)
+  * Vermondo Bio Haferdrink
+    * [The Oat Factory GmbH](https://theoatfactory.com/)
+  * Vermondo Bio Schoko Haferdrink
+    * [Grønvang Food ApS, Denmark](https://gronvang.dk/)
+  * Vermondo Bio Mandeldrink 
+    * [Grønvang Food ApS, Denmark](https://gronvang.dk/)
+  * Vermondo Kokos Joghurt
+    * [PlantA GmbH](https://planta.as/)
+  * Vermondo Veganer Sojajoghurt
+    * N+G Frischprodukten Vertriebs-GmbH - [Bauer Gruppe](https://www.bauer-gruppe.de)
+    * [Elsdorfer Molkerei und Feinkost GmbH](https://elsdorfer.de/) - [Bauer Gruppe](https://www.bauer-gruppe.de)
+  * Vermondo Vegane Scheibe
+    * Jerg GmbH & Co. KG
