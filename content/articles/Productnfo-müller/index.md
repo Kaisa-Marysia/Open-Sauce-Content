@@ -104,8 +104,6 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
 * [Bönsel](https://www.boensel-kochkaese.de/)
 * [Nordsee](https://www.nordsee.com/de/)
 * Almhof 
-* Gut und Günstig (Edeka)
-* Ja! (Rewe)
 * Hofburger (Aldi)
 
 # Folgende Eigenmarken sind nicht von Müller
