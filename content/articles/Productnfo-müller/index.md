@@ -151,3 +151,5 @@ Wer vegan lebt, war nicht direkt betroffen, da die industrielle Milchproduktion 
     * [Elsdorfer Molkerei und Feinkost GmbH](https://elsdorfer.de/) - [Bauer Gruppe](https://www.bauer-gruppe.de)
   * Vermondo Vegane Scheibe
     * Jerg GmbH & Co. KG
+  * Vermondo Veganer Hirtengenuss
+    * [Boermarke BV](https://www.boermarke.eu/), Enschede
